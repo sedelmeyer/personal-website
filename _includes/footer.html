@@ -1,0 +1,32 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+
+      <div class="footer-col footer-col-1">
+        Links to me elsewhere:
+        <class="social-media-list">
+          {% if site.linkedin_username %}
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          {% endif %}
+
+          {% if site.twitter_username %}
+            {% include icon-twitter.html username=site.twitter_username %}
+          {% endif %}
+
+          {% if site.github_username %}
+            {% include icon-github.html username=site.github_username %}
+          {% endif %}
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <p>{{ site.copyright | escape }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
