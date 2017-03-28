@@ -3,7 +3,7 @@
  */
 .site-header {
   font-family: $header-font-family;
-  border-top: 5px solid $grey-color-dark;
+  border-top: 0px solid $grey-color-dark;
   border-bottom: 0px solid $grey-color-light;
   min-height: 56px;
 
@@ -17,7 +17,7 @@
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  margin-top: 5px;
+  margin-top: 15px;
   float: left;
 
   &,
@@ -35,8 +35,13 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $grey-color;
     line-height: $base-line-height;
+    text-decoration: none;
+    &:hover {
+      color: $text-color;
+      text-decoration: underline;
+    }
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -108,6 +113,7 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  text-decoration: none;
 }
 
 .footer-col-wrapper {
