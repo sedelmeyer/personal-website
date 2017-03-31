@@ -48,6 +48,19 @@
       margin-right: 20px;
     }
   }
+  // Formatting Navigation Links for Current Page
+  .page-active {
+    padding: 0px 2px;
+    color: #fdfdfd;
+    line-height: $base-line-height;
+    background-color: darken($grey-color, 25%);
+    text-decoration: none;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 18px;
+    }
+  }
 
   @include media-query($on-palm) {
     position: absolute;
