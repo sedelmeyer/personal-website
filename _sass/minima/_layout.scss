@@ -9,6 +9,7 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  z-index: 10
 }
 
 .site-title {
@@ -102,6 +103,23 @@
       &:not(:last-child) {
         margin-right: 0;
       }
+      margin-left: 20px;
+    }
+
+    // Formatting Navigation Links for Current Page
+    .page-active {
+      color: #fdfdfd;
+      text-weight: bold;
+      line-height: $base-line-height;
+      background-color: darken($grey-color, 25%);
+      text-decoration: none;
+      display: block;
+      padding: 2px 5px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+
       margin-left: 20px;
     }
   }
