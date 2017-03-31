@@ -9,6 +9,7 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  z-index: 10
 }
 
 .site-title {
@@ -48,6 +49,19 @@
       margin-right: 20px;
     }
   }
+  // Formatting Navigation Links for Current Page
+  .page-active {
+    padding: 0px 2px;
+    color: #fdfdfd;
+    line-height: $base-line-height;
+    background-color: darken($grey-color, 25%);
+    text-decoration: none;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 18px;
+    }
+  }
 
   @include media-query($on-palm) {
     position: absolute;
@@ -84,11 +98,27 @@
 
     .page-link {
       display: block;
-      padding: 5px 10px;
+      padding: 2px 5px;
 
       &:not(:last-child) {
         margin-right: 0;
       }
+      margin-left: 20px;
+    }
+
+    .page-active {
+      color: #fdfdfd;
+      text-weight: bold;
+      line-height: $base-line-height;
+      background-color: darken($grey-color, 25%);
+      text-decoration: none;
+      display: block;
+      padding: 2px 5px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+
       margin-left: 20px;
     }
   }
