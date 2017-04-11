@@ -227,11 +227,29 @@
 .photo-credit {
   font-size: 12px;
   font-style: normal;
-  color: $grey-color-photo-credit;
+  color: $grey-color;
   padding: 2px 0px;
   text-align: center;
 }
 
+.footnote {
+  font-style: normal;
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.return-top {
+  font-style: normal;
+  font-size: $small-font-size;
+  color: $grey-color;
+  text-align: right;
+  line-height: 1;
+}
+
+.section-line {
+  border-bottom: 2px solid $grey-color;
+  padding: 25px 0px 10px 0px;
+}
 /**
  * Posts
  */
