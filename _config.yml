@@ -23,6 +23,7 @@ url: "http://www.sedelmeyer.net/" # the base hostname & protocol for your site, 
 twitter_username: sedelmeyer
 github_username: sedelmeyer
 linkedin_username: sedelmeyer
+google_analytics: UA-105706694-1
 
 # Build settings
 markdown: kramdown
