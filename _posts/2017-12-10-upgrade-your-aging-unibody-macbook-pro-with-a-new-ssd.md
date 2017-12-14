@@ -52,7 +52,7 @@ __DISCLAIMER:__ _This process worked for me. However, I make no guarantees that 
 1. __A Couple Hours To Spend Performing the Installation Process__
 
 # Part Zero
-### Back Up Your Data To a Safe Location
+#### Back Up Your Data To a Safe Location
 [Return to Table of Contents](#drive-replacement-instructions)
 
 If you don't already use Time Machine to backup your Apple laptop on a regular basis, I suggest you start doing so now. If anything goes wrong that results in you losing all of your data now or anytime in the future, you'll wish you had. Trust me. This happened to me on a two-and-a-half-year-old iBook G4 in early-2007. To this day I wish I still had the digital photos that were lost on that drive. Needless to say, it only happened to me once. From then on I made certain to maintain regular redundant (multiple) backups of all my data.
