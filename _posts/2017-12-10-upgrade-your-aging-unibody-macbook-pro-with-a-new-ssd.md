@@ -11,7 +11,7 @@ __Outlined below is my preferred method for swapping out a circa 2009-2011 13-in
 
 # Background
 
-Over this past year, I've upgraded storage drives in two Unibody MacBook Pro laptops. The first was my early-2011 13-inch MacBook Pro (Model 8,1) and the second was my wife's mid-2009 13-inch MacBook Pro (Model 5,5). If you have an aging [second-generation "Unibody" MacBook Pro](https://en.wikipedia.org/wiki/MacBook_Pro#Second_generation_(Unibody)), chances are it has served you well. Chances are you have also run into the performance limitations of its slow internal HDD. Replacing the HDD with an SSD will likely be [the biggest performance boost you can give this machine](https://www.pcworld.com/article/2048120/benchmarks-dont-lie-ssd-upgrades-deliver-huge-performance-gains.html). As for my machines, both frustratingly slow when booting or performing any read/write intensive task. On top of that, I was ready to update both systems with a clean install of OS X 10.11.6 El Capitan. Considering that both of their HDDs had been spinning for six and eight years respectively, I figured it may be [time to swap out their aging disk drives](https://www.extremetech.com/computing/170748-how-long-do-hard-drives-actually-live-for). I was sold on the idea when I realized the performance boost I'd likely receive by swapping them with SSDs.
+Over this past year, I've upgraded storage drives in two Unibody MacBook Pro laptops. The first was my early-2011 13-inch MacBook Pro (Model 8,1) and the second was my wife's mid-2009 13-inch MacBook Pro (Model 5,5). If you have an aging [second-generation "Unibody" MacBook Pro](https://en.wikipedia.org/wiki/MacBook_Pro#Second_generation_(Unibody)), chances are it has served you well. Chances are you have also run into the performance limitations of its slow internal HDD. Replacing the HDD with an SSD will likely be [the biggest performance boost you can give this machine](https://www.pcworld.com/article/2048120/benchmarks-dont-lie-ssd-upgrades-deliver-huge-performance-gains.html). As for my machines, both were frustratingly slow when booting or performing any read/write intensive task. On top of that, I was ready to update both systems with a clean install of OS X 10.11.6 El Capitan. Considering that their HDDs had been spinning for six and eight years respectively, [I figured it may be time to swap them out lest they fail me sometime soon](https://www.extremetech.com/computing/170748-how-long-do-hard-drives-actually-live-for). I was sold on the idea when I realized the performance boost I'd likely receive by swapping them with SSDs.
 
 I chose to upgrade the aging HDD in each laptop with a new [525GB Crucial MX300 SSD](http://www.crucial.com/usa/en/storage-ssd-mx300). I purchased each of these SSDs for approximately $130. Now, after swapping out drives, both of these MacBook Pros boot in seconds and perform light-years better than they did even when purchased new close to a decade ago. This solution was far less expensive than spending $1000+ on a new high-end laptop. Even better, this solution still provided me all of the [dopamine fueled goodness I'd feel if I had purchased a new computer](https://www.wsj.com/articles/SB113382650575214543). Only the aging batteries (which I plan to replace soon) and the unibody exteriors of these two MacBooks give away their age.
 
@@ -47,12 +47,12 @@ __DISCLAIMER:__ _This process worked for me. However, I make no guarantees that 
 
 1. __A Phillips #00 and a T6 Torx Screwdriver__ (Other World Computing sells [a cheap and durable basic toolkit](https://eshop.macsales.com/item/OWC/TOOLKITMHD/).)
 
-1. __A small bowl__ (You'll want this to temporarily store your laptop screws so you don't loose them.)
+1. __A Small Bowl__ (You'll want this to temporarily store your laptop screws so you don't loose them.)
 
-1. __A Couple Hours To spend performing the installation process__
+1. __A Couple Hours To Spend Performing the Installation Process__
 
 ## Part Zero
-### Back Up All Your Data To a Safe Location
+### Back Up Your Data To a Safe Location
 [Return to Table of Contents](#drive-replacement-instructions)
 
 If you don't already use Time Machine to backup your Apple laptop on a regular basis, I suggest you start doing so now. If anything goes wrong that results in you losing all of your data now or anytime in the future, you'll wish you had. Trust me. This happened to me on a two-and-a-half-year-old iBook G4 in early-2007. To this day I wish I still had the digital photos that were lost on that drive. Needless to say, it only happened to me once. From then on I made certain to maintain regular redundant (multiple) backups of all my data.
@@ -69,7 +69,7 @@ Personally, I chose to install [OS X 10.11.6 El Capitan](https://en.wikipedia.or
 
 My recommendation is to check the hardware requirements for any Apple OS you hope to install to ensure that your specific model MacBook Pro is supported. Here are the requirements for El Capitan: <https://support.apple.com/kb/sp728?locale=en_US>
 
-#### 1.1 Download OS X 10.11.6 El Capitan
+#### 1.1. Download OS X 10.11.6 El Capitan
 
   1. Apple provides a download link (As of my writing this in December 2017) to OS X 10.11.6 El Capitan at this URL: <https://support.apple.com/en-us/HT206886>.
 
@@ -77,7 +77,7 @@ My recommendation is to check the hardware requirements for any Apple OS you hop
 
   1. Once your download is complete, the OS X installer will open. You do not want to proceed with installation yet, so __quit the installer__.
 
-#### 1.2 Transform Your Downloaded OS X File Into a Bootable Image and Transfer It To Your 8GB USB Drive
+#### 1.2. Transform Your Downloaded OS X File Into a Bootable Image and Transfer It To Your 8GB USB Drive
 
 _This step involves using your Mac's built-in [Terminal application](https://www.macworld.co.uk/feature/mac-software/how-use-terminal-on-mac-3608274/). If you're not familiar with or comfortable with command line applications, fret not. Apple provides very clear step-by-step operations on how to do this._
 
@@ -116,9 +116,9 @@ _You can leave your USB drive mounted to your laptop as you follow these next st
 
   1. Open the Disk Utility application which is located in the "Utilities" folder within your "Applications" folder.
 
-  1. Click on the icon for your new SSD in the left-hand window of Disk Utility (be careful not to select internal Macintosh HD [or the USB drive if it is still attached to your laptop], otherwise you'll risk erasing the wrong drive during the next step).
+  1. Click on the icon for your new SSD in the left-hand window of Disk Utility (be careful not to select your internal Macintosh HD [or the USB drive if it is still attached to your laptop], otherwise you'll risk erasing the wrong drive during the next step).
 
-  1. Select the Erase option, change the name of your new SSD to "Macintosh HD", select the "OS X Extended (Journaled)" format option, and select the "GUID Partition Map" scheme.
+  1. Select the "Erase" option, change the name of your new SSD to "Macintosh HD", select the "OS X Extended (Journaled)" format option, and select the "GUID Partition Map" scheme.
 
   1. Hit the "Erase" button, wait for the process to run, and then you should be all set with a properly formatted SSD onto which you can install El Capitan.
 
@@ -132,7 +132,7 @@ _You can leave your USB drive mounted to your laptop as you follow these next st
 
   1. After agreeing to the Apple license agreement, you will then be presented with an "Install OS X" screen and the installer will ask you to select the drive on which to install El Capitan. Select your newly reformatted external SSD named "Macintosh HD". (Be careful not to accidentally select your laptop's internal HDD, which is probably also called "Macintosh HD"!)
 
-  1. Once the El Capitan operating system is installed on your SSD, you will be presented with the "Select your language" screen. Do not select anything. Instead, hold down your laptop's power button for a few seconds to force it to shut down. You do not want to configure our SSD's new OS settings until the SSD has actually been installed inside our laptop.
+  1. Once the El Capitan operating system is installed on your SSD, you will be presented with the "Select your language" screen. Do not select anything. Instead, hold down your laptop's power button for a few seconds to force it to shut down. You do not want to configure your SSD's new OS settings until the SSD has actually been installed inside our laptop.
 
   1. Once your laptop has shut down, press the power button again to restart it while also holding down the `Option/Alt` key until you are again presented with the screen asking you to select a boot device.
 
@@ -142,7 +142,7 @@ _You can leave your USB drive mounted to your laptop as you follow these next st
 
   1. Now shut down your laptop. You'll need it powered off and unplugged before proceeding to Part Four of these instructions.
 
-## Part Four
+## Part Three
 ### Remove Your Old HDD and Replace it with Your New SSD
 [Return to Table of Contents](#drive-replacement-instructions)
 
@@ -166,25 +166,25 @@ Watch that video. Basically, it shows that you want to use your Philips #00 scre
 
   1. Reattach the bottom panel back onto your laptop.
 
-## Part Five
+## Part Four
 ### Configure Your "Like New" Apple Laptop
 [Return to Table of Contents](#drive-replacement-instructions)
 
-All right, this is it. This is where you start up and configure your "like new" Apple laptop.
+All right, this is it. This is where you start up and configure your laptop.
 
-1. Power on your laptop
+1. Power on your laptop.
 
-1. Work your way through the on screen El Capitan configuration instructions
+1. Work your way through the on screen El Capitan configuration instructions.
 
-1. Transfer any data or files you'd like imported from your most recent Time Machine backup
+1. Transfer any data or files you'd like imported from your most recent Time Machine backup.
 
-1. Reinstall your applications
+1. Reinstall your applications.
 
 # Conclusion
-Congratulations. Assuming everything went smoothly, you'll likely have what feels like a brand new Apple laptop.
+Congratulations. Assuming everything went smoothly, you'll likely have what feels like a new Unibody MacBook Pro.
 
 # Footnotes
 [Return to Table of Contents](#drive-replacement-instructions)
 
 #### The 3-2-1 Backup Principle
-In short, the 3-2-1 principle states that you should maintain two copies of all your critical data. Two of those copies are kept on-site at home or in some location nearby for easy access. Your third copy is stored at a remote location. For your two on site copies, one copy can be the original data stored on the drive inside your laptop, and the second copy can be an external drive that you update on a regular basis using automated backup processes such as those provided by Apple's Time Machine software. For your one offsite copy, I'd recommend a proper cloud service backup and recovery provider such as iDrive, BackBlaze, or Carbonite. Services like Dropbox and Google Drive are great for syncing files between computers and the cloud, but [they suck as far as true backup and recovery solutions go](https://www.red-gate.com/simple-talk/cloud/cloud-data/stop-relying-on-cloud-file-stores-as-a-backup-strategy/). The bad news is, you'll need to pay for your cloud backup service. The good news is, it will be well worth it, should your house burn down with your laptop and external drive inside, or in the unlikely event that both internal and external drives fail at once. Just remember that these low probability events do happen. My sister-in-law lost all of your digital information when both her internal and external disk drives failed at once. So, consider yourself warned.
+In short, the 3-2-1 principle states that you should maintain three copies of all your critical data. Two of those copies are kept on-site at home or in some location nearby for easy access. Your third copy is stored at a remote location. For your two on-site copies, one copy can be the original data stored on the drive inside your laptop, and the second copy can be an external drive that you update on a regular basis using automated backup processes such as those provided by Apple's Time Machine software. For your one offsite copy, I'd recommend a proper cloud service backup and recovery provider such as iDrive, BackBlaze, or Carbonite. Services like Dropbox and Google Drive are great for syncing files between computers and the cloud, but [they suck as far as true backup and recovery solutions go](https://www.red-gate.com/simple-talk/cloud/cloud-data/stop-relying-on-cloud-file-stores-as-a-backup-strategy/). The bad news is, you'll need to pay for your cloud backup service. The good news is, it will be well worth it, should your house burn down with your laptop and external drive inside, or in the unlikely event that both internal and external drives fail at the same time. Just remember that these low probability events do happen. My sister-in-law lost all of her digital information when both her internal and external disk drives failed at once. So, consider yourself warned.
