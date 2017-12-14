@@ -34,7 +34,7 @@ If you're wondering if you might need any additional RAM, or you're wondering ho
 
 __DISCLAIMER:__ _This process worked for me. However, I make no guarantees that it will work for you. Do a little research up front to confirm the compatibility of any SSD that you buy. [Other World Computing's](https://www.macsales.com/) and [Crucial's](http://www.crucial.com/) websites provide useful compatibility look-up tools when shopping for components. Also, be certain to check the hardware requirements of any version of Apple's operating systems that you choose to install to ensure it is compatible with your laptop's specs, model, and year. That being said, proceed at your own risk. Your mileage may vary._
 
-## Items You Will Need
+# Items You Will Need
 [Return to Table of Contents](#drive-replacement-instructions)
 
 1. __Your trusty Unibody 13-inch MacBook Pro, circa 2009-2011__ (This is by far my favorite Apple product ever.)
@@ -51,7 +51,7 @@ __DISCLAIMER:__ _This process worked for me. However, I make no guarantees that 
 
 1. __A Couple Hours To Spend Performing the Installation Process__
 
-## Part Zero
+# Part Zero
 ### Back Up Your Data To a Safe Location
 [Return to Table of Contents](#drive-replacement-instructions)
 
@@ -61,8 +61,8 @@ I am not going to cover the specifics of how to perform and manage your backup r
 
 __So, what I'm trying to say is, prior to starting this SSD installation process, be certain to make a fresh backup of all the data currently on your laptop in case you inadvertently lose everything on your current hard drive.__
 
-## Part One
-### Create a Bootable Version of Apple's Operating System Install File on your 8GB USB Drive
+# Part One
+#### Create a Bootable Version of Apple's Operating System Install File on your 8GB USB Drive
 [Return to Table of Contents](#drive-replacement-instructions)
 
 Personally, I chose to install [OS X 10.11.6 El Capitan](https://en.wikipedia.org/wiki/OS_X_El_Capitan) onto my new SSD. If your Unibody MacBook Pro was produced in 2010 or later, you should be able to get away with installing macOS 10.12 Sierra or 10.13 High Sierra. Personally, I'm sticking with El Capitan until it is no longer supported by Apple. Besides, El Capitan is the newest and only supported version of Apple's operating system [even capable of running on a mid-2009 MacBook Pro (Model 5,5)](https://arstechnica.com/gadgets/2016/06/psa-macos-sierra-drops-support-for-many-macs-from-2007-2008-and-2009/). As of my writing these instructions El Capitan is still supported by Apple with regular security updates. My suspicion is that support for El Capitan will cease sometime in late 2018. Whether or not Apple continues to provide download access to El Capitan after it goes "end-of-support" is yet to be seen.
@@ -104,8 +104,8 @@ _This step involves using your Mac's built-in [Terminal application](https://www
 
 __Note:__ Apple's instructions insist that you need a 12GB USB drive to store your new bootable operating system. For OS X 10.11 El Capitan, an 8GB USB drive will suffice.
 
-## Part Two
-### Prepare Your New SSD by Reformatting It and Installing the Apple Operating System Onto It
+# Part Two
+#### Prepare Your New SSD by Reformatting It and Installing the Apple Operating System Onto It
 [Return to Table of Contents](#drive-replacement-instructions)
 
 _You can leave your USB drive mounted to your laptop as you follow these next steps. You'll need it attached to your laptop soon enough._
@@ -142,8 +142,8 @@ _You can leave your USB drive mounted to your laptop as you follow these next st
 
   1. Now shut down your laptop. You'll need it powered off and unplugged before proceeding to Part Four of these instructions.
 
-## Part Three
-### Remove Your Old HDD and Replace it with Your New SSD
+# Part Three
+#### Remove Your Old HDD and Replace it with Your New SSD
 [Return to Table of Contents](#drive-replacement-instructions)
 
 This is the fun part where you get to take apart your laptop and swap out your old HDD with your new SSD. Other people have created far better photo- and video-based tutorials for doing this than I have any desire to create. So, instead of providing detailed process photos here, I am simply going to provide a link to Other World Computing's Video Tutorial: <https://eshop.macsales.com/installvideos/macbookpro_13_unibody_early11_hd/>
@@ -166,8 +166,8 @@ Watch that video. Basically, it shows that you want to use your Philips #00 scre
 
   1. Reattach the bottom panel back onto your laptop.
 
-## Part Four
-### Configure Your "Like New" Apple Laptop
+# Part Four
+#### Configure Your "Like New" Apple Laptop
 [Return to Table of Contents](#drive-replacement-instructions)
 
 All right, this is it. This is where you start up and configure your laptop.
