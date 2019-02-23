@@ -4,7 +4,7 @@ import markdown
 
 AUTHOR = 'mike sedelmeyer'
 SITENAME = 'sedelmeyer'
-SITEURL = 'https://www.sedelmeyer.net'
+SITEURL = ''
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
