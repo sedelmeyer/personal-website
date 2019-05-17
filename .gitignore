@@ -3,3 +3,5 @@ pelican/output
 _site
 .sass-cache
 .jekyll-metadata
+
+.vscode
