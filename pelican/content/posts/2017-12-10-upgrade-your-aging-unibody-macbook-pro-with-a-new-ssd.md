@@ -90,10 +90,8 @@ _This step involves using your Mac's built-in [Terminal application](https://www
 
       1. Open the Terminal application, which you can find in the "Utilities" sub-folder within your "Applications" folder.
 
-      1. Copy and paste the following command into your Terminal command line:
-```sh
-    sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
-```
+      1. Copy and paste the following command into your Terminal command line: ```sh
+    sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app```
 
       1. Hit the `Return` key.
 
