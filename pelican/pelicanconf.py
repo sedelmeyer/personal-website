@@ -16,6 +16,7 @@ OUTPUT_PATH = 'output'
 
 # THEME = 'simple-bootstrap'
 # https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
+# https://github.com/getpelican/pelican-themes/tree/master/simple-bootstrap
 
 # --------------8<---------------------
 # Files and content
