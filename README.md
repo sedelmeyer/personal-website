@@ -9,7 +9,9 @@ Files contained in this repository comprise my personal website, built with <a h
 
 
 BACKLOG:
-- edit footer.html
-- edit header to add #top
-- comment out posts section on home.html
+- add "date", "updated", and "suppress" parameters to _layouts/page.html
+    - use if statements to add date similar to posts
+    - use if statements to add optional update date
+    - use if to suppress title from page if == true
+- update homepage and add hero image
 - ...
