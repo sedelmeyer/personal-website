@@ -29,18 +29,19 @@ github_username: sedelmeyer
 linkedin_username: sedelmeyer
 google_analytics: UA-105706694-1
 
-markdown: kramdown
-# kramdown:
-#   math_engine: mathjax
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
 header_pages:
-  - about.md
   - past.md
   - present.md
+  - articles.md
+
+# kramdown:
+#   math_engine: mathjax
 
 # minima:
 #   social_links:
