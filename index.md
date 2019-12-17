@@ -7,20 +7,22 @@
 layout: home
 ---
 
-<div style="width: 800px; height: 550px; overflow: hidden">
-<img src="{{ site.baseurl }}/img/slider-bg-home.JPG" >
-<!-- ![banner](img/slider-bg-home.JPG) -->
-</div>
+<!-- <div style="width: 800px; height: 550px; overflow: hidden">
+<img src="{{ site.baseurl }}/img/slider-bg-home.JPG" > -->
+![banner](img/slider-bg-home.JPG)
+<!-- </div> -->
 
 
-<br>
+<!-- <br> -->
 
 ## About me
 
 <p><img src="{{ site.baseurl }}/img/fidel_mask.jpg" alt="Mike Sedelmeyer" width="140" height="140" style="float: right;
 margin: 10px 5px 10px 10px;border-radius: 10%;"></p>
 
-Hello. My name is Mike Sedelmeyer. I currently work in financial planning and analysis at Harvard University. In previous roles, I have tackled growth and performance challenges in finance, operations, and technology in organizations as diverse as the <a href="https://www.blm.gov/" target="_blank">U.S. Bureau of Land Management</a>, <a href="http://www.ford.com/" target="_blank">Ford Motor Company</a>, and <a href="https://www.emc.com/" target="_blank">EMC Corporation</a> (now DELL EMC).
+Hello. My name is Mike Sedelmeyer and this is me on the internet.
+
+I currently work in financial planning and analysis at Harvard University. In previous roles, I have tackled growth and performance challenges in finance, operations, and technology in organizations as diverse as the <a href="https://www.blm.gov/" target="_blank">U.S. Bureau of Land Management</a>, <a href="http://www.ford.com/" target="_blank">Ford Motor Company</a>, and <a href="https://www.emc.com/" target="_blank">EMC Corporation</a> (now DELL EMC).
 
 I combine my experience in analytics, consulting, and finance to help guide organizations toward improved operations and more effective decision-making.
 
@@ -28,5 +30,5 @@ You can learn more about my background [on this page](past.md), find my resume <
 
 ## About this site
 
-This site providrd an opportunity for me to write about the things that matter to me and to my work. Therfore, as this site grows, you'll likely find plenty of writing about statistical learning, bayesian methods, bicycles, and education.
+I spend a lot of time writing code, doing statistics, thinking about bicycles, and being particular about how to use data to answer important questions and communicate findings to a general audience. This site provides an opportunity for me to write about these and other things that matter to me and to my work. Therefore, as this site grows, you'll likely find plenty of writing about statistical learning, bayesian methods, and bicycles.
 
