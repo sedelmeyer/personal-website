@@ -7,9 +7,17 @@
 layout: home
 ---
 
+<div style="width: 800px; height: 550px; overflow: hidden">
+<img src="{{ site.baseurl }}/img/slider-bg-home.JPG" >
+<!-- ![banner](img/slider-bg-home.JPG) -->
+</div>
+
+
+<br>
+
 ## About me
 
-<p><img src="{{ site.baseurl }}/img/headshot.jpg" alt="Mike Sedelmeyer" width="140" height="140" style="float: right;
+<p><img src="{{ site.baseurl }}/img/fidel_mask.jpg" alt="Mike Sedelmeyer" width="140" height="140" style="float: right;
 margin: 10px 5px 10px 10px;border-radius: 10%;"></p>
 
 Hello. My name is Mike Sedelmeyer. I currently work in financial planning and analysis at Harvard University. In previous roles, I have tackled growth and performance challenges in finance, operations, and technology in organizations as diverse as the <a href="https://www.blm.gov/" target="_blank">U.S. Bureau of Land Management</a>, <a href="http://www.ford.com/" target="_blank">Ford Motor Company</a>, and <a href="https://www.emc.com/" target="_blank">EMC Corporation</a> (now DELL EMC).
