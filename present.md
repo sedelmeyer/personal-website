@@ -9,9 +9,11 @@ My wife and I live in Cambridge, Massachusetts and I have recently returned to w
 
 A couple things keeping me busy right now include:
 
-- Documenting family history and <a href= "https://github.com/sedelmeyer" target="_blank">building custom tools with Postgres, Flask, and Python</a> to manage my genealogical data and archive files, and
+- Improving my proficiency with Python for data analysis, visualization, and statistical modeling, most recently completing the courses [CS109a](https://harvard-iacs.github.io/2019-CS109A/) and [APMTH 207](https://am207.github.io/2018fall/) offered through Harvard's School of Engineering and Applied Sciences.
 
-- Improving my proficiency with Python and R for data analysis, visualization, and statistical modeling.
+- Rebuilding and customizing a vintage Dahon Classic III folding bike, originally built in 1987.
+
+- Rebuilding this site [to simplify ongoing maintenance](./articles/about-this-website) so I can more easily update and add content, while wasting far less time on web-design tasks.
 
 ## Strange But True Facts
 
