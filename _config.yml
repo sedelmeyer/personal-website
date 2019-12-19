@@ -21,8 +21,8 @@
 title: sedelmeyer
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  This is the personal website of Michael Sedelmeyer.
-copyright: © 2017 Michael Sedelmeyer. All rights reserved.
+  This is me on the internet.
+copyright: © 2017-2020 Michael Sedelmeyer. All rights reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.sedelmeyer.net/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: sedelmeyer
