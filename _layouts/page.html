@@ -3,14 +3,29 @@ layout: default
 ---
 <article class="post">
 
-  {%- if page.hide_title != true -%}
   <header class="post-header">
+    {%- if page.hide_title != true -%}
     <h1 class="post-title">{{ page.title | escape }}</h1>
+    {%- endif -%}  
   </header>
-  {%- endif -%}
-
+  
   <div class="post-content">
     {{ content }}
+  </div>
+
+  <div class="post-meta">
+    {%- if page.date -%}
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      Published: {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {{ page.date | date: date_format }}
+    </time><br>
+    {%- endif -%}
+    {%- if page.revised -%}
+    <time class="dt-published" datetime="{{ page.revised | date_to_xmlschema }}" itemprop="dateRevised">
+      Last revised: {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {{ page.revised | date: date_format }}
+    </time>
+    {%- endif -%}
   </div>
 
 </article>
