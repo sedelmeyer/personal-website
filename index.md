@@ -5,12 +5,13 @@
 
 # title: This is me on the internet.
 layout: home
-revised: 2019-12-18
+revised: 2020-01-01
 ---
 
 <!-- <div style="width: 800px; height: 550px; overflow: hidden">
 <img src="{{ site.baseurl }}/img/slider-bg-home.JPG" > -->
 ![banner](img/slider-bg-home.JPG)
+*Near Palisades Reservoir Idaho as seen from a helicopter, Mike Sedelmeyer 2005*
 <!-- </div> -->
 
 
