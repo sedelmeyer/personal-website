@@ -68,6 +68,11 @@ html_favicon = '_static/favicon.ico'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+description = 'This site provides a home to my work and writing. '\
+              'You can also find me on '\
+              '<a href="https://github.com/sedelmeyer">GitHub</a> and '\
+              '<a href="https://www.linkedin.com/in/sedelmeyer/">LinkedIn</a>.'
+
 # html theme options for alabaster
 html_theme_options = {
     'logo': 'logo.png',
@@ -75,8 +80,7 @@ html_theme_options = {
     'github_user': 'sedelmeyer',
     'github_repo': 'website',
     'fixed_sidebar': 'false',
-    'description': 'This is me on the Internet! This is the personal website '
-                   'of Michael Sedelmeyer.',
+    'description': description,
     'badge_branch': 'master',
     'github_banner': 'false',
     'github_button': 'false',
@@ -84,8 +88,8 @@ html_theme_options = {
     'show_powered_by': 'true',
     'show_relbar_bottom': 'true',
     'extra_nav_links': {
-        'Find me online on GitHub': 'https://github.com/sedelmeyer',
-        'LinkedIn': 'https://www.linkedin.com/in/sedelmeyer/'
+        'GitHub/sedelmeyer': 'https://github.com/sedelmeyer',
+        'LinkedIn/sedelmeyer': 'https://www.linkedin.com/in/sedelmeyer/'
     }
 }
 
