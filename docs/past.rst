@@ -1,3 +1,5 @@
+.. _past:
+
 An Unusual Career Path
 ----------------------
 
@@ -15,3 +17,7 @@ I grew up in upstate New York. I was in college studying painting at `Syracuse U
 
 .. image:: _static/thumb-touchpoint.jpg
     :width: 24%
+
+|
+
+*Last revised: 2020-01-20*
