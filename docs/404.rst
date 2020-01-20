@@ -1,0 +1,9 @@
+:orphan:
+
+404: Page not found
+===================
+
+The requested page could not be found.
+
+.. image:: _static/skull_mask.jpg
+    :align: right
