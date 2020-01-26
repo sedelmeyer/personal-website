@@ -43,6 +43,12 @@ The wheels on the Dahon Classic III are heavy.
 Tire sizing and clearance
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+When I acquired this bike, it still had its original checker patterned 16 X 1.75 XXXX brand tires on it. When I inspected these tires, I could see clear cracking along the tread in both tires, so I decided to replace them with a modern pair of puncture resistent touring/commuting tires. This is when I learned just how few tire companies manufactured versions of their more popular tires in 305 mm sizing. After a good deal of research, I ultimately found myself trying to decide between the 16 x 1.75 versions of Continental's  Ride Tour city tire and Schwalbe's Marathon tire. Both seemed to get good reviews and both had characteristics I desired. So, to save some cash, I ordered the Continental brand tires. It turns out however, that the 16 x 1.75 inch tires already on the Dahon were closer in size to 1.5 inches wide instead of the 1.75 inches indicated by the tire markings. In addition to this, no matter how many times I re-mounted the new Continental tires, I could never get them evenly mounted. Thus, when I spun the tires, there were 5-10 millimeters of wobble in the tires, up-and-down and side-to-side. Not only did these mounting issues lead me to question Continental's quality control, but the true 1.75 inch width of the new tires cause them aggressively rub the Dahon's fork while spinning. While a true 1.75 inch tire width should equate to 47 mm, the original XXX tires were XXX mm (closer to 1.5 inches) wide when fully inflated. Unfortunately, the Dahon Classic's frame and fork are just too tight a fit for a true 1.75 inch tire.
+
+I decided to return the Continental tires and instead purchased a pair of 16 x 1.5 inch Schwalbe Marathon Racer tires that fit perfectly within the Dahon Classic frame and fork. These tires are also fabulous to ride.
+
+There is a chance that I might have gotten away with a different brand of 1.75 inch width tires, particularly if they are undersized by the manufacturer. However, I didn't want to risk it. If you are feeling bold and want to attemp this, just beware. The Dahon's fork only offers XXX mm of width for clearance. You'll also need to know the hieght of the tire you plan to mount as well. This was a serious issue with the Continental I first attempted to use. While the fully inflated Continental was 47 mm wide when mounted on the Dahon's rims, it was more than 50 mm tall, causing the tire catch the bottom edge of the front brake caliper. Be warned. 
+
 Seatpost and shims
 ^^^^^^^^^^^^^^^^^^
 
