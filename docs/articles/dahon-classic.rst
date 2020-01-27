@@ -23,31 +23,35 @@ While this article logs my rebuilding of this bike, my true motivation for writi
 Build experiences and important specifications
 ----------------------------------------------
 
-To see a consolidated list of important specifications and measurements, you can jump to :ref:`the table <specs>` at the end of this article.
+To see a consolidated list of important specifications and measurements, you can jump to :ref:`the table <specs>` at the end of this article. Please note that I am not entirely certain of the year in which this bike was manufactured, and so far I have been unable to locate the serial number anywhere on this bike's frame. However, if the year stamped on the Sturmey-Archer AW 3-speed hub shell is any indication, I at least know that the rear hub was manufactured in 1987. The `1987 Dahon user's manual`_ available as a pdf through the Dahon.com website also shows images of a bike very similar to mine, with the exception of a few specific components, which may have varied based on model.
 
 .. contents:: Sections
   :local:
   :depth: 1
   :backlinks: top
 
-Wheels diameter
-^^^^^^^^^^^^^^^
+16-inch wheel sizing
+^^^^^^^^^^^^^^^^^^^^
 The wheels of the Dahon Classic are 16 inch. However, as things typically go with bicycle wheel sizing, actual wheel size measurements, when expressed in inches, are open to interpretation. This bike's 16 inch wheels are of the "decimal" sizing variety. The original tires that came on this bike's rims were labeled 16 x 1.75. This means they had an ISO bead seat diameter of 305 mm. This is important to note, because as of my writing of this article (early-2020), 305 mm rims and tires are hard to come by. Far more plentiful are rims and tires made for the "16 inch" standard diameter used by Brompton folding bikes and many recumbant bikes. The Brompton's 16-inch wheels are of the "fractional" sizing variety. Therefore, a Brompton tire will read 16 x 1 3/8, and its ISO bead seat diameter will be 349 mm. From what I could gather while researching this topic, there was a time when the 305 mm diameter was more common on small-wheeled bikes, thus providing more choice among tires and rims. The 349 mm diameter wheel was a bit harder to come by and was typically used on higher-end and sportier folding bikes and recumbants. The 349 mm rims were typically narrower and were designed for narrower and higher pressure performance tires. As it goes, most modern folding bikes are now designed with 20 inch tires. While there are still some modern 16 inch folders using the 305 mm rim, they are few and far between, and the 16 inch market is largely dominated by Brompton and recumbants designed for the sportier 349 mm rim. I suspect that, if I had been working on this project as recently as the late-2000's, there would have been a wider variety of 305 mm tires and rims available.
 
 For a little more background on wheel sizing standards, an article well worth reading (as are most of his articles) is `Sheldon Brown's article on tire sizing`_.
 
 Wheel design and quality
 ^^^^^^^^^^^^^^^^^^^^^^^^
-The wheels on the Dahon Classic III are heavy.
+The rims on the Dahon Classic III are made of steel and heavy.
 
 Tire sizing and clearance
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When I acquired this bike, it still had its original checker patterned 16 X 1.75 XXXX brand tires on it. When I inspected these tires, I could see clear cracking along the tread in both tires, so I decided to replace them with a modern pair of puncture resistent touring/commuting tires. This is when I learned just how few tire companies manufactured versions of their more popular tires in 305 mm sizing. After a good deal of research, I ultimately found myself trying to decide between the 16 x 1.75 versions of Continental's  Ride Tour city tire and Schwalbe's Marathon tire. Both seemed to get good reviews and both had characteristics I desired. So, to save some cash, I ordered the Continental brand tires. It turns out however, that the 16 x 1.75 inch tires already on the Dahon were closer in size to 1.5 inches wide instead of the 1.75 inches indicated by the tire markings. In addition to this, no matter how many times I re-mounted the new Continental tires, I could never get them evenly mounted. Thus, when I spun the tires, there were 5-10 millimeters of wobble in the tires, up-and-down and side-to-side. Not only did these mounting issues lead me to question Continental's quality control, but the true 1.75 inch width of the new tires cause them aggressively rub the Dahon's fork while spinning. While a true 1.75 inch tire width should equate to 47 mm, the original XXX tires were XXX mm (closer to 1.5 inches) wide when fully inflated. Unfortunately, the Dahon Classic's frame and fork are just too tight a fit for a true 1.75 inch tire.
+When I acquired this bike, it still had its original checker patterned 16 x 1.75 Hwa Fong brand tires on it. When I inspected these tires, I could see clear cracking along the tread in both tires, so I decided to replace them with a modern pair of puncture resistent touring/commuting tires. This is when I learned just how few tire companies manufactured versions of their more popular tires in 305 mm sizing. After a good deal of research, I ultimately found myself trying to decide between the 16 x 1.75 versions of Continental's  Ride Tour city tire and Schwalbe's Marathon tire. Both seemed to get good reviews and both had characteristics I desired. So, to save some cash, I ordered the lower cost Continental brand tires. It turns out however, that the Hwa Fong 16 x 1.75 inch tires already on the Dahon were closer in size to 1.5 inches wide (41 millimeters to be exact) instead of the 1.75 inches indicated by the tire markings. In addition to this, no matter how many times I re-mounted the new Continental tires, I could never get them evenly mounted. Thus, when I spun the tires, there were 5-10 millimeters of wobble in the tires, up-and-down and side-to-side. Not only did these mounting issues lead me to question Continental's quality control, but the wobble combined with the actual 47 mm width of the new Continental tires caused them aggressively rub the Dahon's fork while spinning. Unfortunately, the Dahon Classic's frame and fork were just too tight a fit the 1.75 inch Continental.
 
-I decided to return the Continental tires and instead purchased a pair of 16 x 1.5 inch Schwalbe Marathon Racer tires that fit perfectly within the Dahon Classic frame and fork. These tires are also fabulous to ride.
+I decided to return the Continental tires and instead purchased a pair of 16 x 1.5 inch Schwalbe Marathon Racer tires that fit perfectly within the Dahon Classic frame and fork. The Schwalbe tire measures 41 mm wide when fully Inflated. There is a chance that I might have gotten away with a different brand of 1.75 inch width tires, particularly if they were undersized by the manufacturer. However, I didn't want to risk it. If you are feeling bold and want to attempt this, just beware. Without the Continental's wobble, the 47 mm width of the tire would have just barely fit between the Dahon's fork blades. The height of the tire would have been much more of an issue. The height of the Continental tire, when measured from the wire bead to the tallest point of the tire was 51 mm. This caused the tire to drag along the bottom edgeThe Dahon's caliper brake. Consider yourself warned. 
 
-There is a chance that I might have gotten away with a different brand of 1.75 inch width tires, particularly if they are undersized by the manufacturer. However, I didn't want to risk it. If you are feeling bold and want to attemp this, just beware. The Dahon's fork only offers XXX mm of width for clearance. You'll also need to know the hieght of the tire you plan to mount as well. This was a serious issue with the Continental I first attempted to use. While the fully inflated Continental was 47 mm wide when mounted on the Dahon's rims, it was more than 50 mm tall, causing the tire catch the bottom edge of the front brake caliper. Be warned. 
+.. todo::
+  Insert 3 images
+
+  * side by side images of the original tire markings vs the new Schwalbes
+  * an image showing the original tire laid overtop the Continental tire
 
 Seatpost and shims
 ^^^^^^^^^^^^^^^^^^
@@ -57,6 +61,11 @@ Handlebar and stem
 
 Bottom bracket and cranks
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+When dissase If you are thinking about purchasing a new bottom bracket for a Dahon Classic frame, be aware of two very important things...
+
+First, you will not be able to use a typical sealed cartridge bottom bracket with a sealed enclosure. The Dahon's seat tube passes through the frame's bottom bracket shell (see illustration below), meaning that you will need to use a traditional 3-piece cup and cone style bottom bracket. A sealed cartridge bottom bracket such as a Shimano BB-UN55 will not have sufficient room to pass through the bottom bracket shell. When I replaced the bottom bracket, I ended up using a 3-piece 1990's Shimano bottom bracket with english threaded cups with an 68 x 115 mm width spindle.
+
+Second, it will likely be extremely hard to extract the original crank arms from the spindle.
 
 Brakes, brake mounts, and pads
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -96,6 +105,9 @@ For useful reference, below is a table outlining the important measurements and 
     * - Front hub width
       - 64 mm o.l.d.
       -
+    * - Bottom bracket and spindle
+      - English threaded cups with approx. 68 x 115 mm spindle
+      - A cup and cone style bottom bracket must be used. The seatube passes partially through the bottom bracket shell and prevents the insertion of a sealed cartridge bottom bracket.
 
 bottom bracket shell: ~68mm, english thread, 117mm axle
 front dropouts: 64mm o.l.d.
@@ -106,4 +118,5 @@ stem tube: ???mm tube, 25.4mm handlebar clamp
 front brake: ???mm caliper reach
 rear break: ???mm caliper reach
 
+.. _1987 Dahon user's manual: https://usa.dahon.com/wp-content/uploads/2018/03/1987-Dahon-Folder-Users-Manual.pdf
 .. _Sheldon Brown's article on tire sizing: https://sheldonbrown.com/tire-sizing.html
