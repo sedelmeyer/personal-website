@@ -12,6 +12,20 @@ It has been several years since I've taken on a bicycle project. There was a per
 
 When I received the Dahon Classic from my friend it provided me an opportunity to delve back into this hobby. It, importantly, also provided me an opportunity to stop contemplating whether it would be worth purchasing a folding bike that I might be able to (a) keep at the office for use on midday or after-work excursions or (b) pack into the car on road trips. However, if I'm being honest, I had been contemplating this folding bike question for more than a decade. I was well aware that I would never act on this curiosity unless the right project bike came along. So it goes, I ended up with this Dahon folder, and now I will see if it is worth the work it takes to rebuild.
 
+.. image:: ../_static/img/dahon/IMG_20190727_100011.jpg
+  :align: center
+
+.. figure:: ../_static/img/dahon/IMG_20190727_095947.jpg
+  :align: center
+
+  The original Dahon folder, prior to any modifications.
+
+.. figure:: ../_static/img/dahon/IMG_20190727_095947-2.jpg
+  :align: center
+  :width: 100%
+
+  The original Dahon folder, prior to any modifications.
+
 .. todo::
   Add 'figure' of bike as it was when I started the project
 
