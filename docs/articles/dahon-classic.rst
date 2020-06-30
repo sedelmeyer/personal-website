@@ -1,5 +1,5 @@
-Rebuilding a 1980's Dahon Classic Folder
-========================================
+Rebuilding a 1980's Dahon Classic Folding Bike
+==============================================
 
 *Published: 2020-01-28  ( Last revised on 2020-02-20 )*
 
@@ -38,33 +38,35 @@ To see a consolidated list of important specifications and measurements, you can
 
 .. contents:: Sections
   :local:
-  :depth: 1
+  :depth: 2
   :backlinks: top
 
-16-inch wheel sizing
-^^^^^^^^^^^^^^^^^^^^
-The wheels of the Dahon Classic are 16 inch. However, as things typically go with bicycle wheel-sizing, actual wheel size measurements, when expressed in inches, are open to interpretation. This bike's 16 inch wheels are of the "decimal" sizing variety. The original tires that came on this bike's rims were labeled 16 x 1.75. This means they had an ISO bead seat diameter of 305 mm. This is important to note, because as of my writing of this article (in early-2020), 305 mm rims and tires are hard to come by. Far more plentiful are rims and tires made for the "16 inch" standard diameter used by Brompton folding bikes and many recumbant bikes. The Brompton's 16-inch wheels are of the "fractional" sizing variety. Therefore, a standard Brompton tire will read 16 x 1 3/8, and its ISO bead seat diameter will be 349 mm.
+Frame design
+^^^^^^^^^^^^
 
-From what I could gather while researching this topic, there was a time when the 305 mm diameter was more common on small-wheeled bikes, thus providing more choice among tires and rims. Back then, the 349 mm diameter wheel was a bit harder to come by and was typically used on higher-end and sportier folding bikes and recumbants. The 349 mm rims were typically narrower and were designed for narrow and higher pressure performance tires. As it goes, most modern folding bikes are now designed with 20 inch tires (with the exception of Brompton-made bikes). While there are still some modern 16 inch folders using the 305 mm rim, they are few and far between, and the 16 inch market is largely dominated by Brompton and recumbants designed for what had previously been considered a "sportier" 349 mm rim. I suspect that, if I had been working on this project as recently as the late-2000's, there would have been a wider variety of 305 mm tires and rims available for me from which to choose.
-
-For a little more background on wheel-sizing standards, an article well worth reading (as are most of his articles) is `Sheldon Brown's article on tire sizing`_.
-
-Wheel design and quality
-^^^^^^^^^^^^^^^^^^^^^^^^
+Folding mechanics and joints
+""""""""""""""""""""""""""""
 
 .. todo::
 
-  * Add description of the steel bike rims
-  * Discuss how hard it is to find replacement alloy rims, with the exception of Alibaba's marketplace
-  * Also mention the steeply angled braking surface and the challenge it presents (as well as the poor brake grip in wet weather)
-  * Discuss the o.l.d. for the front and rear hubs
-  * Discuss the difficulty of finding replacement front hubs
-  * Discuss the bearing sizes required
+   * Describe joints and folding process
+   * Show minimum fold size acheivable with original configuration
+   * Describe folding compromises made during part selection for my rebuild
 
-The rims on this Dahon are made of chromed steel. As is the case with most steel bike rims, the Dahon's steel rims are far heavier than a comparable aluminum alloy rim of the same size might be. 
 
-Tire sizing and clearance
-^^^^^^^^^^^^^^^^^^^^^^^^^
+16-inch wheel sizing
+""""""""""""""""""""
+The wheels of the Dahon Classic are 16 inch. However, as things typically go with bicycle wheel-sizing, actual wheel size measurements, when expressed in inches, are open to interpretation. This bike's 16 inch wheels are of the "decimal" sizing variety. The original tires that came on this bike's rims were labeled 16 x 1.75. This means they had an ISO bead seat diameter of 305 mm. This is important to note, because as of my writing of this article (in early-2020), 305 mm rims and tires are hard to come by. Far more plentiful are rims and tires made for the "16 inch" standard diameter used by Brompton folding bikes and many recumbant bikes. The Brompton's 16-inch wheels are of the "fractional" sizing variety. Therefore, a standard Brompton tire will read 16 x 1 3/8, and its ISO bead seat diameter will be 349 mm.
+
+Changing standards
+~~~~~~~~~~~~~~~~~~
+
+From what I could gather while researching this topic, there was a time when the 305 mm diameter was more common on small-wheeled bikes, thus providing more choice among tires and rims. Back then, the 349 mm diameter wheel was a bit harder to come by and was typically used on higher-end and sportier folding bikes and recumbants. The 349 mm rims were typically narrower and were designed for narrow and higher pressure performance tires. As it goes, most modern folding bikes are now designed with 20 inch tires (with the exception of Brompton-made bikes). While there are still some modern 16-inch folders using the 305 mm rim, they are few and far between, and the 16 inch market is largely dominated by Brompton and recumbants designed for what had previously been considered a "sportier" 349 mm rim. I suspect that, if I had been working on this project as recently as the late-2000's, there would have been a wider variety of 305 mm tires and rims available for me from which to choose.
+
+For a little more background on wheel-sizing standards, an article well worth reading (as are most of his articles) is `Sheldon Brown's article on tire sizing`_.
+
+Tire clearance
+""""""""""""""
 
 When I acquired this bike, it still had its original checkered-pattern 16 x 1.75 Hwa Fong brand tires on it. When I inspected these tires, I could see clear cracking along the tread in both tires, so I decided to replace them with a modern pair of puncture resistent touring/commuting tires. This is when I learned just how few tire companies manufactured versions of their more popular tires in 305 mm sizing. After a good deal of research, I ultimately found myself trying to decide between the 16 x 1.75 versions of Continental's  Ride Tour city tire and Schwalbe's Marathon tire. Both seemed to get good reviews and both had characteristics I desired. So, to save some cash, I ordered the lower cost Continental brand tires. It turns out however, that the Hwa Fong 16 x 1.75 inch tires already on the Dahon were closer in size to 1.5 inches wide (41 millimeters to be exact) instead of the 1.75 inches indicated by the tire markings. In addition to this, no matter how many times I re-mounted the new Continental tires, I could never get them evenly mounted. Thus, when I spun the tires, there were 5-10 millimeters of wobble in the tires, up-and-down and side-to-side. Not only did these mounting issues lead me to question Continental's quality control, but the wobble combined with the actual 47 mm width of the new Continental tires caused them aggressively rub the Dahon's fork while spinning. Unfortunately, the Dahon Classic's frame and fork were just too tight a fit the 1.75 inch Continental.
 
@@ -77,13 +79,67 @@ I decided to return the Continental tires and instead purchased a pair of 16 x 1
   * an image showing the original tire laid overtop the Continental tire
 
 Headset and fork
-^^^^^^^^^^^^^^^^
+""""""""""""""""
 
 .. todo::
 
    * Describe fork and headset design
    * Provide link to more info on headset
    * I will update this section when I eventually refurb the headset
+
+Cable routing
+"""""""""""""
+Cable routing for the Dahon Classic is not strictly prescribed. One of the tougher decisions I needed to make while refurbishing this bike was how exactly I wanted my brake and shifter cables routed. The only actual cable stop brazed onto the frame is the shifter cable stop located on the drive-side seat stay.  There is a second cable routing braze-on (albeit not a true cable stop) located off-center beneath the top tube. This second braze-on was the original stop-point for the rear brake cable housing. That stop was required with the original center-pull rear brake. However, if you choose to replace the centerpull rear brake with a sidepull brake caliper, then you no longer need to use this braze-on as a cable stop. Instead, you can use it as a means for routing your rear cable housing.
+
+.. todo::
+
+  * add close up photos of cable related braze-ons
+  * add photos with highlighted cable overlay lines
+  * Discuss the amount of cable slack required for stem adjustment/removal and folding
+
+Frame mounts, fenders, and other miscellanea
+""""""""""""""""""""""""""""""""""""""""""""
+
+.. todo::
+
+   * Discuss the other mounting points included on the frame
+      * The stem tower reflector mount (and a cheap lighting solution)
+      * The lack of fork eyelets and an easy workaround for the front fender stays
+      * The small screw mount for the original chainguard
+      * The rear seatstay cross-bracket for rack mounting
+      * The rear eyelests for fender/rack mounting
+   * Discuss fender replacement options (Brompton vs. others)
+
+Wheel design and quality
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo::
+
+  * Discuss how hard it is to find replacement alloy rims, with the exception of Alibaba's marketplace
+  * Also mention the steeply angled braking surface and the challenge it presents (as well as the poor brake grip in wet weather)
+  * Discuss the o.l.d. for the front and rear hubs
+  * Discuss the difficulty of finding replacement front hubs
+  * Discuss the bearing sizes required
+
+Stock rims
+""""""""""
+
+The stock rims on this Dahon are made of chromed steel. As is the case with most steel bike rims, the Dahon's steel rims are far, far heavier than a comparable aluminum alloy rim of the same size might be. This, coupled with the less-than-ideal braking surfaces of those rims (see the :ref:`breaking surface<braking-surface>` sub-section below for more detail), puts replacing these rims high on my to-do list for this bike. However, because (a) decent 305 mm alloy rims are difficult to come by and (b) I have no immediate need to replace the current hubs built into these wheels, I have put off rebuilding these wheels for the time being. If I were planning on ordering new rims for this bike, and because I would be interested in lacing them with the same current 28-hole hubs, I would likely be limited to ordering my rims from overseas on Alibaba's `AliExpress marketplace <https://www.aliexpress.com/>`_. 
+
+.. _`braking-surface`:
+
+Braking surface
+"""""""""""""""
+
+Front and rear hubs
+"""""""""""""""""""
+
+Additionally, the braking surfaces of the rim are steeply angled, meaning that most brake pads will make very poor contact with that surface.
+
+Drivetrain
+^^^^^^^^^^
+
+
 
 Seatpost and shims
 ^^^^^^^^^^^^^^^^^^
@@ -143,38 +199,6 @@ Drivetrain and Sturmey-Archer hub
    * Discuss the original shifter and finding a barend replacement
    * Discuss the cog and chainring combination and resulting gear ratios
 
-Cable routing
-^^^^^^^^^^^^^
-Cable routing for the Dahon Classic is not strictly prescribed. One of the tougher decisions I needed to make while refurbishing this bike was how exactly I wanted my brake and shifter cables routed. The only actual cable stop brazed onto the frame is the shifter cable stop located on the drive-side seat stay.  There is a second cable routing braze-on (albeit not a true cable stop) located off-center beneath the top tube. This second braze-on was the original stop-point for the rear brake cable housing. That stop was required with the original center-pull rear brake. However, if you choose to replace the centerpull rear brake with a sidepull brake caliper, then you no longer need to use this braze-on as a cable stop. Instead, you can use it as a means for routing your rear cable housing.
-
-.. todo::
-
-  * add close up photos of cable related braze-ons
-  * add photos with highlighted cable overlay lines
-  * Discuss the amount of cable slack required for stem adjustment/removal and folding
-
-Folding mechanics and joints
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo::
-
-   * Describe joints and folding process
-   * Show minimum fold size acheivable with original configuration
-   * Describe folding compromises made during part selection for my rebuild
-
-Frame mounts, fenders, and other miscellanea
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo::
-
-   * Discuss the other mounting points included on the frame
-      * The stem tower reflector mount (and a cheap lighting solution)
-      * The lack of fork eyelets and an easy workaround for the front fender stays
-      * The small screw mount for the original chainguard
-      * The rear seatstay cross-bracket for rack mounting
-      * The rear eyelests for fender/rack mounting
-   * Discuss fender replacement options (Brompton vs. others)
-
 Ride quality and experiences
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -212,14 +236,17 @@ For useful reference, below is a table outlining the important measurements and 
     * - Wheel diameter
       - 16 x 1.75 (305 mm ISO)
       - The wheels are ISO 305 mm 16 inch wheels (i.e. decimal sized), not the slightly larger standard used on current Bromptons, which is ISO 349 mm (i.e. fractional sized). See `Sheldon Brown's article on tire sizing`_ for more details.
+    * - Rims
+      - 28-hole chromed-steel, XX mm external rim width
+      - These rims have :ref:`an unusually steep angle to their braking surfaces<braking-surface>`, making brakepad replacement tricky.
     * - Tire clearance  
       - XX tire width
       - The original tires that came with this bike were labeled 16 x 1.75 (expected to be 45 mm), but their actual mounted width was closer to 16 x 1.50 (38 mm). Due to limited front fork clearance, I needed to use a modern 16 x 1.50 or 38 mm width tire.
     * - Front hub
-      - 64 mm O.L.D., XX mm axle width, XX spoke, cup and cone design
+      - 64 mm O.L.D., XX mm axle width, 28 spoke, cup and cone design
       - The front hub is made of steel. The fork spacing and hub over-lock-nut-distance (O.L.D.) is extremely narrow. The narrowest modern bike hubs I have seen are 74 mm (versus the standard 100 mm O.L.D), which is found on some ultra compact Bike Friday and Dahon models.
     * - Rear hub
-      - 100 mm O.L.D., `Sturmey-Archer AW 3-speed`_, XX mm axle width, XX spoke
+      - 100 mm O.L.D., `Sturmey-Archer AW 3-speed`_, XX mm axle width, 28 spoke
       - The Sturmey-Archer rear hub is the classic AW 3-speed design with an oiling port and steel exterior hub casing. 
     * - Bottom bracket and spindle
       - English threaded cups with approx. 68 x 115 mm tapered spindle
