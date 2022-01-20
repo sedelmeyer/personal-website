@@ -10,11 +10,11 @@ Background
   :align: right
   :width: 50%
 
-I was recently given a 1980's Dahon classic folding bike. The friend who gave it to me had been given the bike by a friend of his who, in turn, had acquired it cheaply. However, after realizing how much a bike shop wanted to charge my friend's friend to reburbish and tune the bike, my friend's friend had passed it on to my friend. My friend had no time to rebuild a bike, so he passed it on to me.
+I was recently given a 1980's Dahon classic folding bike. The friend who gave it to me had been given the bike by a friend of his who, in turn, had acquired it cheaply. However, after realizing how much a local bike shop wanted to charge my friend's friend to reburbish and tune the bike, my friend's friend had passed it on to my friend. My friend had no time to rebuild a bike, so he passed it on to me.
 
-It has been several years since I've taken on a bicycle project. There was a period in my life when I'd refurbish a couple bikes a year. I had acquired a strange love for stripping bikes down to their bearings and rebuilding them into new configurations. I was never a cyclist in the sense that I loved to go road riding or mountain biking, but I loved biking for transport and I loved building and rebuilding bikes. Through those projects, I acquired a particular taste for late-1980's to mid-1990's steel bike frames and the cycling technology of that era.
+It has been several years since I've taken on a bicycle project. There was a period in my life when I'd refurbish a couple bikes a year. I had acquired a strange love for stripping bikes to their bearings and rebuilding them with new configurations. I was never a cyclist in the sense that I loved to go road riding or mountain biking, but I loved biking for transport and I loved rebuilding bikes. Through those projects, I acquired a particular taste for late-1980's to mid-1990's cycling technology.
 
-When I received the Dahon Classic from my friend it provided me an opportunity to delve back into this hobby. It, importantly, also provided me an opportunity to stop contemplating whether it would be worth purchasing a folding bike that I might be able to (a) keep at the office for use on midday or after-work excursions or (b) pack into the car on road trips. However, if I'm being honest, I had been contemplating this folding bike question for more than a decade. I was well aware that I would never act on this curiosity unless the right project-bike came along. So it goes, I ended up with this Dahon folder, and now I will see if it is worth the work it has taken me to rebuild it.
+When I received the Dahon Classic from my friend it provided me an opportunity to delve back into this hobby. It also provided me an opportunity to stop contemplating whether it would be worth purchasing a folding bike that I might be able to (a) keep at the office for use on midday or after-work excursions or (b) pack into the car on road trips. However, if I'm being honest, I had been contemplating getting a folding bike for more than a decade. I was well aware that I would never act on this curiosity unless the right project-bike came along. So it goes. I ended up with this Dahon folder. Now I will see if it is worth the work it has taken me to rebuild it.
 
 
 .. figure:: ../_static/img/dahon/IMG_20190727_095947.jpg
@@ -29,12 +29,12 @@ When I received the Dahon Classic from my friend it provided me an opportunity t
 A record of this bike's unique traits
 -------------------------------------
 
-While this article logs my rebuilding of the bike, my true motivation for writing this is to provide a record of the unique specifications, measurements, and idosyncracies of this 1980's Dahon folder. For a model of bike so common as this one (cheap used Dahons of this era are typically easy to come by and they even appear to have attracted a cult following in parts of Southeast Asia), clear documentation regarding this bike's unique specifications is very difficult to find on the Internet. I did come by some forum discussions indicating that this was not always the case, and that there was someone who at one point had written extensively about these bikes. But it appears that this person's site pages had vanished from existence some time ago.
+This article logs my rebuilding of the bike. My true motivation for writing this is to provide a record of the unique specifications, measurements, and idosyncracies of this 1980's Dahon folder. For a model of bike so common as this one (cheap used Dahons of this era are typically easy to come by and they even appear to have attracted a cult following in parts of Southeast Asia), clear documentation regarding this bike's unique specifications is very difficult to find on the Internet. I did come by some forum discussions indicating that there had not always been this dearth of information. Apparently, there was someone who at one point had written extensively about these bikes. But it appears that this person's online writings had vanished some time ago.
 
 Build experiences and important specifications
 ----------------------------------------------
 
-To see a consolidated list of important specifications and measurements, you can jump to :ref:`the table <specs>` at the end of this article. Please note that I am not entirely certain of the year in which this bike was manufactured, and so far I have been unable to locate the serial number anywhere on this bike's frame. However, if the year stamped on the Sturmey-Archer AW 3-speed hub shell is any indication, I at least know that the rear hub was manufactured in 1987. The `1987 Dahon user's manual`_ available as a pdf through the Dahon.com website also shows images of a bike very similar to mine, with the exception of a few specific components, which I am assuming varied based on model.
+To see a consolidated list of important specifications and measurements, you can jump to :ref:`the table <specs>` at the end of this article. Please note, that I am not entirely certain of the year in which this bike was manufactured, and so far I have been unable to locate the serial number anywhere on this bike's frame. However, if the year stamped on the Sturmey-Archer AW 3-speed hub shell is any indication, I at least know that the rear hub was manufactured in 1987. The `1987 Dahon user's manual`_ available as a pdf through the Dahon.com website also shows images of a bike very similar to mine, with the exception of a few specific components, which I am assuming varied based on model.
 
 .. contents:: Sections
   :local:
@@ -43,6 +43,10 @@ To see a consolidated list of important specifications and measurements, you can
 
 Frame design
 ^^^^^^^^^^^^
+
+.. todo::
+
+   * Show frame design variants for Dahon Classic frames
 
 Folding mechanics and joints
 """"""""""""""""""""""""""""
@@ -56,12 +60,12 @@ Folding mechanics and joints
 
 16-inch wheel sizing
 """"""""""""""""""""
-The wheels of the Dahon Classic are 16 inch. However, as things typically go with bicycle wheel-sizing, actual wheel size measurements, when expressed in inches, are open to interpretation. This bike's 16 inch wheels are of the "decimal" sizing variety. The original tires that came on this bike's rims were labeled 16 x 1.75. This means they had an ISO bead seat diameter of 305 mm. This is important to note, because as of my writing of this article (in early-2020), 305 mm rims and tires are hard to come by. Far more plentiful are rims and tires made for the "16 inch" standard diameter used by Brompton folding bikes and many recumbant bikes. The Brompton's 16-inch wheels are of the "fractional" sizing variety. Therefore, a standard Brompton tire will read 16 x 1 3/8, and its ISO bead seat diameter will be 349 mm.
+The wheels of the Dahon Classic are 16 inch. However, as things typically go with bicycle wheel-sizing, actual wheel size measurements, when expressed in inches, are open to interpretation. This bike's 16-inch wheels are of the "decimal" sizing variety. The original tires that came on this bike's rims were labeled 16 x 1.75. This means they had an ISO bead seat diameter of 305 mm. This is important to note, because as of my writing of this article (in early-2020), 305 mm rims and tires are hard to come by. Far more plentiful are rims and tires made for the "16 inch" standard diameter used by Brompton folding bikes and many recumbant bikes. The Brompton's 16-inch wheels are of the "fractional" sizing variety. Therefore, a standard Brompton tire will read 16 x 1 3/8, and its ISO bead seat diameter will be 349 mm.
 
 Changing standards
 ~~~~~~~~~~~~~~~~~~
 
-From what I could gather while researching this topic, there was a time when the 305 mm diameter was more common on small-wheeled bikes, thus providing more choice among tires and rims. Back then, the 349 mm diameter wheel was a bit harder to come by and was typically used on higher-end and sportier folding bikes and recumbants. The 349 mm rims were typically narrower and were designed for narrow and higher pressure performance tires. As it goes, most modern folding bikes are now designed with 20 inch tires (with the exception of Brompton-made bikes). While there are still some modern 16-inch folders using the 305 mm rim, they are few and far between, and the 16 inch market is largely dominated by Brompton and recumbants designed for what had previously been considered a "sportier" 349 mm rim. I suspect that, if I had been working on this project as recently as the late-2000's, there would have been a wider variety of 305 mm tires and rims available for me from which to choose.
+From what I could gather while researching this topic, there was a time when the 305 mm diameter was more common on small-wheeled bikes, thus providing more choice among tires and rims. Back then, the 349 mm diameter wheel was a bit harder to come by and was typically used on higher-end and sportier folding bikes and recumbants. The 349 mm rims were typically narrower and were designed for narrower and higher-pressure performance tires. As it goes, most modern folding bikes are now designed with 20 inch tires (with the exception of Brompton-made bikes). While there are still some modern 16-inch folders using the 305 mm rim, they are few and far between, and the 16 inch market is largely dominated by Brompton and recumbants designed for what had previously been considered the "sportier" 349 mm rim. I suspect that, if I had been working on this project as recently as the late-2000's, there would have been a wider variety of 305 mm tires and rims available for me from which to choose.
 
 For a little more background on wheel-sizing standards, an article well worth reading (as are most of his articles) is `Sheldon Brown's article on tire sizing`_.
 
@@ -121,10 +125,19 @@ Wheel design and quality
   * Discuss the difficulty of finding replacement front hubs
   * Discuss the bearing sizes required
 
+The stock wheels on this bike are made of steel. The hubs are steel. The spokes are steel. The rims are steel. As you would expect given that information, the wheels are heavy.
+
 Stock rims
 """"""""""
 
-The stock rims on this Dahon are made of chromed steel. As is the case with most steel bike rims, the Dahon's steel rims are far, far heavier than a comparable aluminum alloy rim of the same size might be. This, coupled with the less-than-ideal braking surfaces of those rims (see the :ref:`breaking surface<braking-surface>` sub-section below for more detail), puts replacing these rims high on my to-do list for this bike. However, because (a) decent 305 mm alloy rims are difficult to come by and (b) I have no immediate need to replace the current hubs built into these wheels, I have put off rebuilding these wheels for the time being. If I were planning on ordering new rims for this bike, and because I would be interested in lacing them with the same current 28-hole hubs, I would likely be limited to ordering my rims from overseas on Alibaba's `AliExpress marketplace <https://www.aliexpress.com/>`_. 
+As is the case with most chromed-steel bike rims, the Dahon's steel rims:
+
+* Are far heavier than a comparable double-wall aluminum alloy rim of the same size might be;
+* Have braking surfaces that perform very, very poorly when wet (see the :ref:`breaking surface<braking-surface>` sub-section below for more detail).
+
+These two traits put replacing these rims high on my to-do list for this bike. However, because (a) decent 305 mm alloy rims are difficult to come by and (b) I have no immediate need to replace the current hubs built into these wheels, I have put off rebuilding these wheels for the time being. If I were planning on ordering new rims for this bike, and because I would be interested in lacing them with the same current 28-hole hubs, I would likely be limited to ordering my rims from overseas merchants on Alibaba's `AliExpress marketplace <https://www.aliexpress.com/>`_. So far, I have been unable to find any domestic source for 28-hole 305mm alloy rims. The closest I have come are 20-hole and 24-hole 305mm Dahon Kinetix rims sold through `ThorUSA.com <http://thorusa.com/>`_. Major manufacturers, if they do have a 16-inch rim model, those are typically of the 349mm Brompton-sized variety. Even the manufacturer WTB, who appears to manufacture some of the current OEM 305mm rims used for Dahon's XXX model 16-inch folder, does not appear to even list those rims among the products on their company website.
+
+As for the 305mm rims available on the `AliExpress marketplace <https://www.aliexpress.com/>`_, those appear to be limited to KinLin and LitePro K-fun rims, for which I can find no reviews nor manufacturer documentation online.
 
 .. _`braking-surface`:
 
