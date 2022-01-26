@@ -1,7 +1,7 @@
 Rebuilding a 1980's Dahon Classic Folding Bike
 ==============================================
 
-*Published: 2020-01-28  ( Last revised on 2020-02-20 )*
+*Published: 2020-01-28  ( Last revised on 2022-01-26 )*
 
 Background
 ----------
@@ -10,9 +10,9 @@ Background
   :align: right
   :width: 50%
 
-I was recently given a 1980's Dahon classic folding bike. The friend who gave it to me had been given the bike by a friend of his who, in turn, had acquired it cheaply. However, after realizing how much a local bike shop wanted to charge my friend's friend to reburbish and tune the bike, my friend's friend had passed it on to my friend. My friend had no time to rebuild a bike, so he passed it on to me.
+I was recently given a 1980's Dahon classic folding bike. The friend who gave it to me had been given the bike by a friend of his who, in turn, had acquired it cheaply. However, after realizing how much a local bike shop wanted to charge to reburbish and tune the bike, my friend's friend had passed it on to my friend. My friend had no time to rebuild a bike, so he passed it on to me.
 
-It has been several years since I've taken on a bicycle project. There was a period in my life when I'd refurbish a couple bikes a year. I had acquired a strange love for stripping bikes to their bearings and rebuilding them with new configurations. I was never a cyclist in the sense that I loved to go road riding or mountain biking, but I loved biking for transport and I loved rebuilding bikes. Through those projects, I acquired a particular taste for late-1980's to mid-1990's cycling technology.
+It had been several years since I had taken on a bicycle project. There was a period in my life when I'd refurbish a couple bikes a year. I had acquired a strange love for stripping bikes to their bearings and rebuilding them with new configurations. I was never a cyclist in the sense that I loved to go road riding or mountain biking, but I loved biking for transport and I loved rebuilding bikes. Through those projects, I acquired a particular taste for late-1980's to mid-1990's cycling technology.
 
 When I received the Dahon Classic from my friend it provided me an opportunity to delve back into this hobby. It also provided me an opportunity to stop contemplating whether it would be worth purchasing a folding bike that I might be able to (a) keep at the office for use on midday or after-work excursions or (b) pack into the car on road trips. However, if I'm being honest, I had been contemplating getting a folding bike for more than a decade. I was well aware that I would never act on this curiosity unless the right project-bike came along. So it goes. I ended up with this Dahon folder. Now I will see if it is worth the work it has taken me to rebuild it.
 
@@ -36,6 +36,10 @@ Build experiences and important specifications
 
 To see a consolidated list of important specifications and measurements, you can jump to :ref:`the table <specs>` at the end of this article. Please note, that I am not entirely certain of the year in which this bike was manufactured, and so far I have been unable to locate the serial number anywhere on this bike's frame. However, if the year stamped on the Sturmey-Archer AW 3-speed hub shell is any indication, I at least know that the rear hub was manufactured in 1987. The `1987 Dahon user's manual`_ available as a pdf through the Dahon.com website also shows images of a bike very similar to mine, with the exception of a few specific components, which I am assuming varied based on model.
 
+.. todo::
+  Add 'figure' of hub markings showing mfg year
+  Add actual user's manual PDF and preview
+
 .. contents:: Sections
   :local:
   :depth: 2
@@ -43,6 +47,8 @@ To see a consolidated list of important specifications and measurements, you can
 
 Frame design
 ^^^^^^^^^^^^
+
+The early Dahon frames are a joy to look at. There's just something overtly mechanical about their design. It's similar to the look of a Moulton folding bike in that sense, but far, far more "low brow" than any Moulton will ever allow itself to be. I think it's the diagonal steer-tube strut that really rounds out the aesthetic. Granted, that diagonal strut is a weak point from a structural perspective, it lends a playfulness to the design that just seems to be missing from the later 16-inch wheeled Dahon classics that did away with that strut in favor of a locking quick-release bolt at the hinged base of the steering column.
 
 .. todo::
 
@@ -60,12 +66,12 @@ Folding mechanics and joints
 
 16-inch wheel sizing
 """"""""""""""""""""
-The wheels of the Dahon Classic are 16 inch. However, as things typically go with bicycle wheel-sizing, actual wheel size measurements, when expressed in inches, are open to interpretation. This bike's 16-inch wheels are of the "decimal" sizing variety. The original tires that came on this bike's rims were labeled 16 x 1.75. This means they had an ISO bead seat diameter of 305 mm. This is important to note, because as of my writing of this article (in early-2020), 305 mm rims and tires are hard to come by. Far more plentiful are rims and tires made for the "16 inch" standard diameter used by Brompton folding bikes and many recumbant bikes. The Brompton's 16-inch wheels are of the "fractional" sizing variety. Therefore, a standard Brompton tire will read 16 x 1 3/8, and its ISO bead seat diameter will be 349 mm.
+The wheels of the Dahon Classic are 16 inch. However, as things typically go with bicycle wheel-sizing, actual wheel size measurements, when expressed in inches, are open to interpretation. This bike's 16-inch wheels are of the "decimal" sizing variety. The original tires that came on this bike's rims were labeled 16 x 1.75. This means they had an ISO bead seat diameter of 305 mm. This is important to note, because as of my writing of this article (in the early-2020's), 305 mm rims and tires are hard to come by. Far more plentiful are rims and tires made for the 16 inch diameter used by Brompton folding bikes and many recumbant bikes. The Brompton's 16-inch wheels are of the "fractional" sizing variety. Therefore, a standard Brompton tire will read 16 x 1 3/8, and its ISO bead seat diameter will be 349 mm.
 
 Changing standards
 ~~~~~~~~~~~~~~~~~~
 
-From what I could gather while researching this topic, there was a time when the 305 mm diameter was more common on small-wheeled bikes, thus providing more choice among tires and rims. Back then, the 349 mm diameter wheel was a bit harder to come by and was typically used on higher-end and sportier folding bikes and recumbants. The 349 mm rims were typically narrower and were designed for narrower and higher-pressure performance tires. As it goes, most modern folding bikes are now designed with 20 inch tires (with the exception of Brompton-made bikes). While there are still some modern 16-inch folders using the 305 mm rim, they are few and far between, and the 16 inch market is largely dominated by Brompton and recumbants designed for what had previously been considered the "sportier" 349 mm rim. I suspect that, if I had been working on this project as recently as the late-2000's, there would have been a wider variety of 305 mm tires and rims available for me from which to choose.
+From what I could gather while researching this topic, there was a time when the 305 mm diameter was more common on small-wheeled bikes, thus providing more choice among tires and rims. Back then, the 349 mm diameter wheel was a bit harder to come by and was typically used on higher-end and sportier folding bikes and recumbants. The 349 mm rims were typically narrower and were designed for narrower and higher-pressure "performance" tires. As it goes, most modern folding bikes are now designed with 20 inch tires (with the exception of Brompton-made bikes). While there are still some modern 16-inch folders using the 305 mm rim, they are few and far between, and the 16-inch market is largely dominated by Brompton and recumbants designed for what had previously been considered the "sportier" 349 mm rim. I suspect that, if I had been working on this project as recently as the late-2000's, there would have been a wider variety of 305 mm tires and rims available for me from which to choose.
 
 For a little more background on wheel-sizing standards, an article well worth reading (as are most of his articles) is `Sheldon Brown's article on tire sizing`_.
 
@@ -74,7 +80,7 @@ Tire clearance
 
 When I acquired this bike, it still had its original checkered-pattern 16 x 1.75 Hwa Fong brand tires on it. When I inspected these tires, I could see clear cracking along the tread in both tires, so I decided to replace them with a modern pair of puncture resistent touring/commuting tires. This is when I learned just how few tire companies manufactured versions of their more popular tires in 305 mm sizing. After a good deal of research, I ultimately found myself trying to decide between the 16 x 1.75 versions of Continental's  Ride Tour city tire and Schwalbe's Marathon tire. Both seemed to get good reviews and both had characteristics I desired. So, to save some cash, I ordered the lower cost Continental brand tires. It turns out however, that the Hwa Fong 16 x 1.75 inch tires already on the Dahon were closer in size to 1.5 inches wide (41 millimeters to be exact) instead of the 1.75 inches indicated by the tire markings. In addition to this, no matter how many times I re-mounted the new Continental tires, I could never get them evenly mounted. Thus, when I spun the tires, there were 5-10 millimeters of wobble in the tires, up-and-down and side-to-side. Not only did these mounting issues lead me to question Continental's quality control, but the wobble combined with the actual 47 mm width of the new Continental tires caused them aggressively rub the Dahon's fork while spinning. Unfortunately, the Dahon Classic's frame and fork were just too tight a fit the 1.75 inch Continental.
 
-I decided to return the Continental tires and instead purchased a pair of 16 x 1.5 inch Schwalbe Marathon Racer tires that fit perfectly within the Dahon Classic frame and fork. The Schwalbe tire measures 41 mm wide when fully Inflated. There is a chance that I might have gotten away with a different brand of 1.75 inch width tires, particularly if they were undersized by the manufacturer. However, I didn't want to risk it. If you are feeling bold and want to attempt this, just beware. Without the Continental's wobble, the 47 mm width of the tire would have just barely fit between the Dahon's fork blades. The height of the tire would have been much more of an issue. The height of the Continental tire, when measured from the wire bead to the tallest point of the tire was 51 mm. This caused the tire to drag along the bottom edgeThe Dahon's caliper brake. Consider yourself warned. 
+I decided to return the Continental tires and instead purchased a pair of 16 x 1.5 inch Schwalbe Marathon Racer tires that fit perfectly within the Dahon Classic frame and fork. The Schwalbe tire measures 41 mm wide when fully Inflated. There is a chance that I might have gotten away with a different brand of 1.75 inch width tires, particularly if they were undersized by the manufacturer. However, I didn't want to risk it. If you are feeling bold and want to attempt this, just beware. Without the Continental's wobble, the 47 mm width of the tire would have just barely fit between the Dahon's fork blades. The height of the tire would have been much more of an issue. The height of the Continental tire, when measured from the wire bead to the tallest point of the tire was 51 mm. This caused the tire to drag along the bottom edge of the front caliper brake. Consider yourself warned. 
 
 .. todo::
   Insert 3 images
@@ -295,6 +301,6 @@ Related sites and resources
 * https://www.flickr.com/groups/719280@N24/
 * https://bootiebike.com/dahon/dahon.htm
 
-.. _1987 Dahon user's manual: https://usa.dahon.com/wp-content/uploads/2018/03/1987-Dahon-Folder-Users-Manual.pdf
+.. _1987 Dahon user's manual: https://dahon.com/wp-content/uploads/2018/03/1987-Dahon-Folder-Users-Manual.pdf
 .. _Sheldon Brown's article on tire sizing: https://sheldonbrown.com/tire-sizing.html
 .. _Sturmey-Archer AW 3-speed: https://sheldonbrown.com/sturmey-archer/aw.html
