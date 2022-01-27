@@ -199,16 +199,25 @@ Handlebar and stem
 
 Bottom bracket and cranks
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-If you are thinking about purchasing a new bottom bracket for a Dahon Classic frame, be aware of two very important things...
+If you are thinking about purchasing a new bottom bracket for a Dahon Classic frame, be aware of three very important things...
 
 First, you will not be able to use a typical sealed cartridge bottom bracket with a sealed enclosure. The Dahon's seat tube passes through the frame's bottom bracket shell (see illustration below), meaning that you will need to use a traditional 3-piece cup and cone style bottom bracket. A sealed cartridge bottom bracket such as a Shimano BB-UN55 will not have sufficient room to pass through the bottom bracket shell. When I replaced the bottom bracket, I ended up using a 3-piece 1990's Shimano bottom bracket with english threaded cups with an 68 x 115 mm width spindle.
 
-Second, it will likely be extremely hard to extract the original crank arms from the spindle.
+Second, it will likely be extremely hard to extract the original crank arms from the spindle. The original folding steel crankset that came with this bike had no threading in the recess near the crank bolt. That means you will not be able to thread a crank remover onto either crankarm in order to remove them. I ended up using a general purpose gear puller to remove the crankarms from the bottom bracket spindle. It wasn't particularly easy to do, but I was able to do it. Below is a photo of the gear puller I ended up using.
+
+Once I was able to remove the crankarms and replace the bottom bracket, I decided to replace the steel folding crankarms with a lighter set of forged aluminum cranks. For this, I used an old Sugino XD 175mm crankset I had in my parts bin. This crankset had the same 110 mm bolt-center diameter (BCD), so it meant that I could reuse the original XX tooth steel chainring, and it provided a slightly larger Q-factor, allowing the crankarms to clear the dual-pivot sidepull brake I used to replace the original centerpull rear brake. 
+
+Swapping out the original steel crankarms for these lighter Sugino XD cranks probably also struck me as the easiest way to reduced the overall weight of this bike. Swapping these out probably reduced the weight by close to 2 pounds. 
+
+Third, not all classic Dahon frames of this era use 3-piece cranks. Some were manufactured for use with the cheaper 1-piece cranksets often found on the department store bikes of this era. The bottom bracket housing of those 1-piece cranksets are a different diameter and are too large for the use of a 3-piece bottom-bracket. One-piece to three-piece adapters do exist, but I have no experience with them (nor do I really have much experience with one-piece cranks), so some additional research will be required on this topic.
 
 .. todo::
 
-   * Discuss 3-piece crank vs. single-piece seen in some photos
+   * Discuss 3-piece crank vs. single-piece seen in some photos (add photos and links to other resources)
    * Draw and add illustration of the bottom bracket shell with seattube intrusion
+   * Add figure showing gear puller used for this task
+   * Add figure showing clearance between Sugino crankarm and rear brake arms
+
 
 Brakes, brake mounts, and pads
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
