@@ -48,7 +48,7 @@ To see a consolidated list of important specifications and measurements, you can
 Frame design
 ^^^^^^^^^^^^
 
-The early Dahon frames are a joy to look at. There's just something overtly mechanical about their design. It's similar to the look of a Moulton folding bike in that sense, but far, far more "low brow" than any Moulton will ever allow itself to be. I think it's the diagonal steer-tube strut that really rounds out the aesthetic. Granted, that diagonal strut is a weak point from a structural perspective, it lends a playfulness to the design that just seems to be missing from the later 16-inch wheeled Dahon classics that did away with that strut in favor of a locking quick-release bolt at the hinged base of the steering column.
+The early Dahon frames are a joy to look at. There's just something overtly mechanical or structural about their design. It is oddly similar to the look of a `Moulton folding bike`_ in that sense, but far, far more "low brow" than any Moulton will ever allow itself to be. I think it's the diagonal steer-tube strut that really rounds out the aesthetic. Granted, that diagonal strut is a weak point from a structural perspective, it lends a playfulness to the design that just seems to be missing from the later 16-inch wheeled Dahon classics that did away with that strut in favor of a locking quick-release bolt at the hinged base of the steering column.
 
 .. todo::
 
@@ -57,8 +57,19 @@ The early Dahon frames are a joy to look at. There's just something overtly mech
 Folding mechanics and joints
 """"""""""""""""""""""""""""
 
+Folding this bike is not particularly easy to do. It is actually the diagonal strut that makes it so difficult to do. In order to utilize the hinged frame, to fold the bike in half, the strut must first be decoupled from the steering column. This is accomplished by disengaging the spring-loaded used to secure the strut to the steering column. This involves turning the handlebars just so and then lifting up on the plastic knob attached to the pin, while attempting to slide the steering column laterally along the plane of its hinge, which is located just above the headset. It is a finicky first step in the folding process.
+
+Once you are able to disengage the struct and fold it down backwards along the frame, you are free to disengage the hinge lock at the base of the frame, and then fold the front half of the frame back against itself.
+
+This leaves you to question the correct order for the additional steps involved in folding this bike. At which point do you want to fold down the steering column? At which point do you want to undo the quick release bolts to press down the seat post and stem? If you still have the original folding drive-side crank on the bike, when do you want to unscrew and fold that crankarm up so that the pedal points inward? And, ever importantly, how should you have your cranks positioned such that the pedals do not get in your way?
+
+Granted, there are step-by-step folding instructions in the `1987 Dahon user's manual`_, and examples published elsewhere online, it's still a tedious process for which it would be useful to have a third hand to make things a bit easier. That being said, I have favored ridability and comfort over folding ease while refurbishing this bike. For me, the small footprint of this bike (resulting from such small wheels) allows me to easily store it at home or in the office, and the ability to fold the bike frame in half (without lowering the seat post or stem) provides a compact enough size to easily fit it in a car, carry it onto a bus, or stand it tuched away in the corner of a room. But, I don't really do any of those things often, and I am glad not to, because disengaging the diagonal strut is a bit of a pain to do.
+
 .. todo::
 
+   * Add figure showing close-up operation of the hinge-clamp in the center of the frame
+   * Add figure showing close-up operation of the spring-loaded lock pin for the steer column strut
+   * Add figure showing close-up operation of the original folding crankarm
    * Describe joints and folding process
    * Show minimum fold size acheivable with original configuration
    * Describe folding compromises made during part selection for my rebuild
@@ -90,6 +101,8 @@ I decided to return the Continental tires and instead purchased a pair of 16 x 1
 
 Headset and fork
 """"""""""""""""
+
+I will need to update this article at a later date once I have taken the time to refurbish the headset on this bike. I plan to do so within the next year, so hopefully I'll have more info on this soon. In the meantime, there are some other online sources where owners have taken apart their headset assembly.
 
 .. todo::
 
@@ -304,3 +317,4 @@ Related sites and resources
 .. _1987 Dahon user's manual: https://dahon.com/wp-content/uploads/2018/03/1987-Dahon-Folder-Users-Manual.pdf
 .. _Sheldon Brown's article on tire sizing: https://sheldonbrown.com/tire-sizing.html
 .. _Sturmey-Archer AW 3-speed: https://sheldonbrown.com/sturmey-archer/aw.html
+.. _Moulton folding bike: http://www.moultonbicycles.co.uk/
