@@ -176,6 +176,18 @@ Drivetrain
 Seatpost and shims
 ^^^^^^^^^^^^^^^^^^
 
+The original seatpost for this bike is a two-piece telescoping seatpost made of chromed steel. The maximum length of this seatpost, when extended to the minimum insert lines for each piece is XX mm. If you are 6 feet tall or taller, chances are, this seatpost will likely not be long enough for you. At roughly five feet eleven inches tall, this seatpost just barely works for me. Replacing the seatpost with something long however, would prove a bit difficult.
+
+The outide diameter for the lower portion of the seatpost is approximately XX.X mm. A plastic shim is used to fit the seatpost to the frame. The inside diameter of the frame's seat tube is approximately XX.X mm. The outside diameter of the upper portion of the seatpost is approximately XX.X mm. A plastic shim is used to fit the upper portion to the lower portion. The inside diameter of the lower portion is XX.X mm. Both seatposts have a groved channel that runs most of their length, and those channels fit to grooves in each of the plastic shims. The plastic shims, combined with these grooves, make seat height adjustment and compression of the seatpost much easier for folding purposes. However, while riding the seatpost fully extended to the minimum insert lines, I found that the quick-release bolts and plastic shims were insufficient for preventing the seatpost from slowly slipping further and further into the frame when riding the bike. Often, after two to four miles of riding, the seat would be noticeably lower, having slipped by 3 or more centimeters.
+
+To solve this seatpost slipping problem, and to gain an additional couple centimeters of vertical length, I sought to replace the seatpost and to replace the plastic shims with shims made of aluminum. 
+
+Finding a suitable replacement seatpost proved difficult. While there are one-piece extra long Dahon seatposts available, it is questionable that they would provide any additional length over the stock steel telescoping seatpost that came on this Dahon. Their XX.XX mm outside diameter would likely work with a careful shim choice, but the lower overall height of the classic Dahon's seat tube when compared to that of a more modern frame, meant that the extra long seatpost was not really extra long when compared to these 1980's frames. Some additional discussion with other Dahon owners also proved this suspicion to be true as can be seen in this `BikeForums.net seat post discussion thread`_. Additionally, the only suitable telescoping seatpost I could find was one manufactured by Tern. Length-wise, this Tern seatpost would probably work. However, it is only available in black, and I could not bring myself to using a black seatpost on this bike. With the rest of the bike frame being red and chrome (or silver), I just felt that the black would ruin the the original lines of this strangely mechanical (and fun to look at) bike frame.
+
+In the end, I choose to replace just the upper portion of the seatpost with a 27.2 mm Dajia 350 mm single-bolt aluminum seatpost, which was available through Velo-Orange. To properly fit this Dajia seatpost to the lower portion, I replaced the XX.X mm to XX.X mm plastic shim with a XX.X mm to 27.2 mm aluminum shim. The only problem I ran into was that the grooved recess in the lower portion of the seatpost prevented me from inserting the new Dajia seatpost all the to the minimum insert line. To overcome this issue, I simply used a bastard file to shave away some aluminum from the edge of the seat tube, just along the front bottom of the tube. This allowed me to insert the seat post an addiitonal few millimeters resolving this problem.
+
+In addition to replacing the upper portion of the seatpost and the upper shim, I also replaced the lower XX.X mm to XX.X mm plastic shim with an aluminum of approximately the same diameters (XX.X mm to XX.X mm), and I replaced the quick release seatpost clamp levers with simple Xm stainless steel bolts and nylon lock nuts. The purpose of replacing the quick release bolts was to help discourage seatpost theft when locking the bike and leaving it unattended, and to hopefully increase the amount of torque I might be able to apply to the bolts to further prevent seatpost slippage.
+
 .. todo::
 
    * Describe the original telescoping seatpost, lengths, diameters, shims, etc.
@@ -210,17 +222,19 @@ I did initially attempt to replace the original steel stem with a traditional 1"
 
 Bottom bracket and cranks
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-If you are thinking about purchasing a new bottom bracket for a Dahon Classic frame, be aware of three very important things...
+If you are thinking about purchasing a new bottom bracket for a Dahon Classic frame, be aware of four very important things...
 
 First, you will not be able to use a typical sealed cartridge bottom bracket with a sealed enclosure. The Dahon's seat tube passes through the frame's bottom bracket shell (see illustration below), meaning that you will need to use a traditional 3-piece cup and cone style bottom bracket. A sealed cartridge bottom bracket such as a Shimano BB-UN55 will not have sufficient room to pass through the bottom bracket shell. When I replaced the bottom bracket, I ended up using a 3-piece 1990's Shimano bottom bracket with english threaded cups with an 68 x 115 mm width spindle.
 
-Second, it will likely be extremely hard to extract the original crank arms from the spindle. The original folding steel crankset that came with this bike had no threading in the recess near the crank bolt. That means you will not be able to thread a crank remover onto either crankarm in order to remove them. I ended up using a general purpose gear puller to remove the crankarms from the bottom bracket spindle. It wasn't particularly easy to do, but I was able to do it. Below is a photo of the gear puller I ended up using.
+Second, the Dahon bottom bracket shell is not actually 68 mm wide. Instead, the shell is a non-standard width and measures XX mm. This means that the easier to source 68 mm bottom brackets do not fit perfectly. Instead of the adjustable drive-side bottom bracket cup sitting relatively flush with the lockring after adjustment, it will actually extend close to XX mm past the lockring. Structurally, this means that the drive-side bottom bracket cup is potentially weaker and more at risk of cracking or shearing than it might otherwise be when installed in a properly sized bottom bracket shell. However, it has thus far held up to several months of riding. So, I'll need to wait and see how this works long term. If it does eventually fail, the original Dahon bottom bracket still had some life left in it. So, I would likely just swap it back out if required.
+
+Third, it will likely be extremely hard to extract the original crank arms from the spindle. The original folding steel crankset that came with this bike had no threading in the recess near the crank bolt. That means you will not be able to thread a crank remover onto either crankarm in order to remove them. I ended up using a general purpose gear puller to remove the crankarms from the bottom bracket spindle. It wasn't particularly easy to do, but I was able to do it. Below is a photo of the gear puller I ended up using.
 
 Once I was able to remove the crankarms and replace the bottom bracket, I decided to replace the steel folding crankarms with a lighter set of forged aluminum cranks. For this, I used an old Sugino XD 175mm crankset I had in my parts bin. This crankset had the same 110 mm bolt-center diameter (BCD), so it meant that I could reuse the original XX tooth steel chainring, and it provided a slightly larger Q-factor, allowing the crankarms to clear the dual-pivot sidepull brake I used to replace the original centerpull rear brake. 
 
 Swapping out the original steel crankarms for these lighter Sugino XD cranks probably also struck me as the easiest way to reduced the overall weight of this bike. Swapping these out probably reduced the weight by close to 2 pounds. 
 
-Third, not all classic Dahon frames of this era use 3-piece cranks. Some were manufactured for use with the cheaper 1-piece cranksets often found on the department store bikes of this era. The bottom bracket housing of those 1-piece cranksets are a different diameter and are too large for the use of a 3-piece bottom-bracket. One-piece to three-piece adapters do exist, but I have no experience with them (nor do I really have much experience with one-piece cranks), so some additional research will be required on this topic.
+Fourth, not all classic Dahon frames of this era use 3-piece cranks. Some were manufactured for use with the cheaper 1-piece cranksets often found on the department store bikes of this era. The bottom bracket housing of those 1-piece cranksets are a different diameter and are too large for the use of a 3-piece bottom-bracket. One-piece to three-piece adapters do exist, but I have no experience with them (nor do I really have much experience with one-piece cranks), so some additional research will be required on this topic.
 
 .. todo::
 
@@ -228,6 +242,7 @@ Third, not all classic Dahon frames of this era use 3-piece cranks. Some were ma
    * Draw and add illustration of the bottom bracket shell with seattube intrusion
    * Add figure showing gear puller used for this task
    * Add figure showing clearance between Sugino crankarm and rear brake arms
+   * Add figure showing actual bottom bracket shell width measurement and overhanging cup threads.
 
 
 Brakes, brake mounts, and pads
@@ -338,3 +353,6 @@ Related sites and resources
 .. _Sheldon Brown's article on tire sizing: https://sheldonbrown.com/tire-sizing.html
 .. _Sturmey-Archer AW 3-speed: https://sheldonbrown.com/sturmey-archer/aw.html
 .. _Moulton folding bike: http://www.moultonbicycles.co.uk/
+.. _BikeForums.net seat post discussion thread: https://www.bikeforums.net/folding-bikes/1184155-extra-long-seatpost-options-dahon-folding-bike-litepro-650mm.html
+.. _Reddit 305 mm rims discussion thread: https://www.reddit.com/r/foldingbikes/comments/nxd6zs/trying_to_find_16_305_mm_rims_for_classic_dahon/
+.. _Reddit front hub discussion thread: https://www.reddit.com/r/foldingbikes/comments/cowbsk/options_for_new_dahon_classic_iii_front_hub/
