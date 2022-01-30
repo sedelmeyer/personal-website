@@ -191,6 +191,8 @@ In addition to replacing the upper portion of the seatpost and the upper shim, I
 .. todo::
 
    * Add figure of filed Dajia seatpost
+   * Add figures showing old vs. new seatpost shims
+   * Add figures showing old vs. new seatpost setup
    * Describe the original telescoping seatpost, lengths, diameters, shims, etc.
    * Describe the difficulty of finding longer seatposts (single-piece vs. Tern or Brompton telescoping)
    * Discuss the problem of seatpost slippage and getting a tight enough grip with the lower seatpost collet
@@ -269,6 +271,12 @@ Drivetrain and Sturmey-Archer hub
 
 Ride quality and experiences
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+I have been riding this bike for several months now since completing my rebuild of it. I have mostly used it as a commuter and errand bike, but have also taken it on several longer casual rides that likely ranged from 10 to 15 miles. Overall, this is a fun bike to ride. And, once I had addressed the few initial comfort issues stemming from the original generic saddle I had placed on it and the just-too-long reach caused by the quill stem I had first decided to use, this bike has been very comfortable for longer rides. The well-worn Brooks B17 saddle and the short XX mm reach of the original steel stem, which allows me to get the handlebars just above the height of the saddle, both compliment the look and feel of this bike very well. Additionally, there is some flex in the long steel seatpost, which helps to smooth the ride on this bike. This I am thankful for. The 16 inch wheels don't really do me any favors when the surface I am riding on gets rough. Keeping the XX mm (1.5 inch) width tires to a low XX p.s.i. does help somewhat for dampening road noise and smoothing over the bumps a little bit, but the ability of the seatpost to absorb even more of the shock and vibration is an added benefit.
+
+In addition to the difficulty rolling over rough or broken surfaces, the small wheel size also makes the bike feel unstable relative to a larger wheel bike when standing on the pedals. This instability coupled with the slight bit of play in the steering column construction leads me to stay seated for difficult hill climbs where I might otherwise stand to make pedaling a bit easier. The steering column play is subtle, but still noticable when applying force to the handlebars during strenuous pedaling efforts. I believe that this play is attributable to the diagonal strut, which offers an imperfect rigid support for the foldable hinged steering column. It is not unusual to hear creaking in the hinged joint at the base of the diagonal strut when unevenly weighting and unweighting the the handlebars. This does not inspire much confidence during high load pedaling efforts.
+
+However, overall this bike is fun to ride, and odd enough to ellicit the occasional smile or question from people who spot me riding. It also doesn't feel as slow or as clunky as I would expect from
 
 .. todo::
 
