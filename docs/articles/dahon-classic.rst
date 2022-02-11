@@ -163,10 +163,11 @@ As for the 305mm rims available on the `AliExpress marketplace <https://www.alie
 Braking surface
 """""""""""""""
 
+As was the case for many old steel bicycle rims, the braking surfaces of the rim are angled by design rather than being parallel to one another. As a result, the original brake pads that came on this bike were also angled (TODO: ADD IMAGE OF BRAKE PADS). This was required to provide flush contact between the pads and the rim sidewalls. Unfortunately, this also means that new commonly available brake pads will not sit flush to the rims while braking.  Additionally, the braking surfaces of the rim are steeply angled, meaning that most brake pads will make very poor contact with that surface.
+
 Front and rear hubs
 """""""""""""""""""
 
-Additionally, the braking surfaces of the rim are steeply angled, meaning that most brake pads will make very poor contact with that surface.
 
 Drivetrain
 ^^^^^^^^^^
