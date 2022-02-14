@@ -252,8 +252,14 @@ Fourth, not all classic Dahon frames of this era use 3-piece cranks. Some were m
 Brakes, brake mounts, and pads
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+The original brakes on this bike were Lee Chi sidepulls on the front and Lee Chi centerpulls on the rear. The same friend who had passed the bike on to me also had an old Tektro XXXX dual-pivot sidepull rear brake sitting around in his parts bin. This inspired me to attempt to replace both of the original Dahon Lee Chi brakes with, what I would expect to be more powerful dual-pivot sidepulls. As luck would have it, I was able to locate a second dual-pivot Tektro XXXX brake in great condition in the parts bin of a local bike shop. The cost for this used brake was minimal. So, even though this second used brake was also a "rear" version of the brake, I still bought it with the hopes that I would be able to replace the short mounting bolt with a longer version of the mounting bolt, which would be required to mount the brake on the front of a bike. Once again, with a little luck, I was able to find an ebay seller in Germany who stocked replacement mounting bolts for this model Tektro brake. So, for less than $20, I was able to order a long front-mount bolt, and used it to replace the original shorter bolt on one of the used Tektro XXXX brakes I had acquired.  
+
+The Tektro XXXX brakes offer plenty of clearance for the 1.5" (XX mm) width tires and XX mm wide fenders used on this bike. Additionally, the arms of this particular model Tektro brake offers XX mm - XX mm adjustable reach, which is more than enough to reach the brake surfaces for both the front and rear wheels. Braking power is also more than sufficient when riding in dry conditions. The only potential setbacks to using these brakes are as follows. Because the sidepull of the rear brake extends further from the side of the bike than the arms of the original Lee Chi rear centerpull brake, I am not entirely certain that the original low Q-factor steel crankarm would have enough clearance to clear the brake side-pull. However, because I had replaced those original cranks with a set of higher Q-factor Sugino XD cranks, this has proven not to be an issue. A little more troubling though setback with these brakes is the slight reduction in vertical clearance afforded by these Tektro brakes when compared to the original Lee Chi sidepull front brake. This reduced clearance, coupled with the slightly taller profile of the new Michelin Marathon Racer tire, leaves very little clearance for road debris, gravel, snow, mud, etc. between the tire and fender while riding. This often results in a rubbing sound as the road debris picked up by the tire is scraped from the tire surface by the fender. This is more of an annoyance in wet or sloppy riding conditions, but for the most part seems harmless because the fender does not actually rub the tire. But there are times when I consider reverting back to a simple single-pivot sidepull brake for the front to regrain a bit more vertical clearance for the front fender.
+
 .. todo::
 
+   * Add figures showing measurements for Lee Chi vs. Tektro sidepulls from bolt center to underside of brake body at the bolt
+   * Add figures showing brake arm reach for Tektro vs Lee Chi brakes
    * Discuss original brake calipers (front sidepull, rear centerpull
    * Discuss brake reach requirements and version of replacement brake calipers used
    * Note the importance of buying the correct mount-type versions of those calipers
@@ -305,6 +311,7 @@ However, overall this bike is fun to ride, and odd enough to ellicit the occasio
 
 Conclusion
 ^^^^^^^^^^
+
 
 .. todo::
 
